@@ -5224,4 +5224,17 @@
 	"Category": "Get Started Playlists",
 	"SubCategory": "First Days",
 	"Source": "Microsoft"
+},
+{
+	"Id": "b7f52310-54dd-4701-be3c-c0acbb8d0000",
+	"Title": "Test",
+	"Description": "",
+	"Url": "https://support.office.com/en-us/client/b7f52310-54dd-4701-be3c-c0acbb8d998b?embed=true&ns=trainingservices&version=1",
+	"Level": "Beginner",
+	"Audience": "End Users",
+	"Technology": "Office 365 Basics",
+	"Subject": "",
+	"Category": "Get Started Playlists",
+	"SubCategory": "First Days",
+	"Source": "Microsoft"
 }]

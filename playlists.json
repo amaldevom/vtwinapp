@@ -1025,4 +1025,17 @@
 	"SubCategory": "Yammer Training",
 	"Source": "Microsoft",
 	"Assets": ["47526868-b136-40cc-a80d-c870eadd9ba5","dc06d227-c4c9-4fdb-9bfe-9f6a6b1caa83","856d45cc-dd94-48de-bea6-ae4f9ecdc472","da65b1c3-6651-4141-8dbd-d50d61b98a6e","53e74097-c1fc-4098-a8ad-cf40b8e02e6c","52db606b-2f29-4a9a-8cbb-b43bf2a27d2e","eb096f3b-ef81-49d8-9b44-9bec6fe50c3c","e9f31b53-f1b1-407f-8cd6-6cda93fe23be","4ca4f40e-f9ee-4554-aa6d-e00687977875","544eb5b9-c69a-4609-ac09-bb169b1098d0","b8e6c9cd-bbca-49b6-bb28-7ed313d52fb0"] 
+},
+{
+	"Id": "02f5792f-4eed-4122-91ed-348560c30000",
+	"Title": "Test",
+	"Image": "images/playlists/use_yammer_every_day.png",
+	"Level": "Beginner",
+	"Audience": "End Users",
+	"Technology": "Yammer",
+	"Subject": "",
+	"Category": "Office 365 Apps",
+	"SubCategory": "Yammer Training",
+	"Source": "Microsoft",
+	"Assets": ["47526868-b136-40cc-a80d-c870eadd9ba5","dc06d227-c4c9-4fdb-9bfe-9f6a6b1caa83","856d45cc-dd94-48de-bea6-ae4f9ecdc472","da65b1c3-6651-4141-8dbd-d50d61b98a6e","53e74097-c1fc-4098-a8ad-cf40b8e02e6c","52db606b-2f29-4a9a-8cbb-b43bf2a27d2e","eb096f3b-ef81-49d8-9b44-9bec6fe50c3c","e9f31b53-f1b1-407f-8cd6-6cda93fe23be","4ca4f40e-f9ee-4554-aa6d-e00687977875","544eb5b9-c69a-4609-ac09-bb169b1098d0","b8e6c9cd-bbca-49b6-bb28-7ed313d52fb0"] 
 }]
