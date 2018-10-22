@@ -5227,8 +5227,20 @@
 },
 {
 	"Id": "b7f52310-54dd-4701-be3c-c0acbb8d0000",
+<<<<<<< HEAD
 	"Title": "Test 223",
 	"Title": "Test2237",
+=======
+<<<<<<< HEAD
+	"Title": "Test2241",
+=======
+<<<<<<< HEAD
+	"Title": "Test 22",
+=======
+	"Title": "Test2237",
+>>>>>>> master
+>>>>>>> 0d1b1e77eb06046de2d6b8dd01a1676368c97f7f
+>>>>>>> master
 	"Description": "",
 	"Url": "https://support.office.com/en-us/client/b7f52310-54dd-4701-be3c-c0acbb8d998b?embed=true&ns=trainingservices&version=1",
 	"Level": "Beginner",
