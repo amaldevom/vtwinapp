@@ -6058,5 +6058,20 @@
     "CatId": null,
     "Source": "SOC",
     "StatusTag": null
+  },
+  {
+    "Id": "86c8663f-42bc-45b7-add6-0bc766643717",
+    "Title": "Test Asset new",
+    "Description": "Test Asset new",
+    "Url": "ertghj",
+    "Level": "Beginner",
+    "Audience": "VIPs",
+    "Technology": "OneDrive for Business",
+    "Subject": null,
+    "Category": "Office 365 Apps",
+    "SubCategory": "Excel Training",
+    "CatId": null,
+    "Source": "FastTrack",
+    "StatusTag": null
   }
 ]

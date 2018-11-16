@@ -1521,5 +1521,20 @@
     "Assets": [
       "03855829-7c7d-43ad-9a68-9ad89d7826aa"
     ]
+  },
+  {
+    "Id": "3baead34-a2cd-45d6-9058-d259f633bbbe",
+    "Title": "Test new",
+    "Image": "images/playlists/Cells.png",
+    "Level": "Intermediate",
+    "Audience": "Change Managers",
+    "Technology": "Microsoft Teams",
+    "Subject": "PSTN Calling",
+    "Category": "Change Management",
+    "SubCategory": "Manage Change",
+    "Source": "FastTrack",
+    "Assets": [
+      "86c8663f-42bc-45b7-add6-0bc766643717"
+    ]
   }
 ]
