@@ -106,114 +106,231 @@
   ],
   "Categories": [
     {
+      "Id": null,
       "Name": "Get Started Playlists",
       "Security": "Visitors",
       "Image": "",
+      "Type": null,
+      "Technology": null,
       "SubCategories": [
         {
+          "Id": null,
           "Name": "First Days",
-          "Image": "images/categories/first_days.png"
+          "Security": null,
+          "Image": "images/categories/first_days.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "Featured",
-          "Image": "images/categories/featured.png"
+          "Security": null,
+          "Image": "images/categories/featured.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "Recommended",
-          "Image": "images/categories/recommended.png"
+          "Security": null,
+          "Image": "images/categories/recommended.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "Transformation",
-          "Image": "images/categories/transformation.png"
+          "Security": null,
+          "Image": "images/categories/transformation.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         }
       ]
     },
     {
+      "Id": null,
       "Name": "Change Management",
       "Security": "Owners",
       "Image": "",
+      "Type": null,
+      "Technology": null,
       "SubCategories": [
         {
+          "Id": null,
           "Name": "Prepare for Change",
-          "Image": ""
+          "Security": null,
+          "Image": "",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "Manage Change",
-          "Image": ""
+          "Security": null,
+          "Image": "",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "Reinforce Change",
-          "Image": ""
+          "Security": null,
+          "Image": "",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         }
       ]
     },
     {
+      "Id": null,
       "Name": "Office 365 Apps",
       "Security": "Visitors",
       "Image": "",
+      "Type": null,
+      "Technology": null,
       "SubCategories": [
         {
+          "Id": null,
           "Name": "Excel Training",
-          "Image": "images/categories/excel_training.png"
+          "Security": null,
+          "Image": "images/categories/excel_training.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "Microsoft Teams Training",
-          "Image": "images/categories/microsoft_teams_training.png"
+          "Security": null,
+          "Image": "images/categories/microsoft_teams_training.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "Office 365 Basic Training",
-          "Image": "images/categories/office_365_apps_basic_training.png"
+          "Security": null,
+          "Image": "images/categories/office_365_apps_basic_training.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "OneDrive for Business Training",
-          "Image": "images/categories/onedrive_training.png"
+          "Security": null,
+          "Image": "images/categories/onedrive_training.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "OneNote Training",
-          "Image": "images/categories/onenote_training.png"
+          "Security": null,
+          "Image": "images/categories/onenote_training.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "Outlook Training",
-          "Image": "images/categories/outlook_training.png"
+          "Security": null,
+          "Image": "images/categories/outlook_training.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "PowerPoint Training",
-          "Image": "images/categories/powerpoint_training.png"
+          "Security": null,
+          "Image": "images/categories/powerpoint_training.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "SharePoint Online Training",
-          "Image": "images/categories/sharepoint_training.png"
+          "Security": null,
+          "Image": "images/categories/sharepoint_training.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "Word Training",
-          "Image": "images/categories/word_training.png"
+          "Security": null,
+          "Image": "images/categories/word_training.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "Yammer Training",
-          "Image": "images/categories/yammer_training.png"
+          "Security": null,
+          "Image": "images/categories/yammer_training.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         }
       ]
     },
     {
+      "Id": null,
       "Name": "Custom Playlists",
       "Security": "Visitors",
       "Image": "",
+      "Type": null,
+      "Technology": null,
       "SubCategories": [
         {
+          "Id": null,
           "Name": "First Days",
-          "Image": "images/categories/first_days.png"
+          "Security": null,
+          "Image": "images/categories/first_days.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "Recommended",
-          "Image": "images/categories/customrecommended.png"
+          "Security": null,
+          "Image": "images/categories/customrecommended.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "Featured",
-          "Image": "images/categories/customfeatured.png"
+          "Security": null,
+          "Image": "images/categories/customfeatured.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         },
         {
+          "Id": null,
           "Name": "Transformation",
-          "Image": "images/categories/customtransformation.png"
+          "Security": null,
+          "Image": "images/categories/customtransformation.png",
+          "Type": null,
+          "Technology": null,
+          "SubCategories": null
         }
       ]
     }
