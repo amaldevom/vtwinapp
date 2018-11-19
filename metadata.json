@@ -169,6 +169,106 @@
         }
       ]
     },
+	{
+	"Id": "4f7378cd-7c40-4a99-9617-94681300c828",
+      "Name": "Office 365 Apps",
+      "Security": "Visitors",
+      "Image": "",
+      "Type": "Category",
+      "Technology": "",
+      "SubCategories": [
+        {
+          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Name": "Excel Training",
+          "Security": "Visitors",
+          "Image": "",
+          "Type": "SubCategory",
+          "Technology": "M365",
+          "SubCategories": []
+        },
+		{
+          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Name": "Office 365 Basic Training",
+          "Security": "Visitors",
+          "Image": "",
+          "Type": "SubCategory",
+          "Technology": "M365",
+          "SubCategories": []
+        },
+		{
+          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Name": "OneDrive for Business Training",
+          "Security": "Visitors",
+          "Image": "",
+          "Type": "SubCategory",
+          "Technology": "M365",
+          "SubCategories": []
+        },
+		{
+          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Name": "OneNote Training",
+          "Security": "Visitors",
+          "Image": "",
+          "Type": "SubCategory",
+          "Technology": "M365",
+          "SubCategories": []
+        },
+		{
+          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Name": "Outlook Training",
+          "Security": "Visitors",
+          "Image": "",
+          "Type": "SubCategory",
+          "Technology": "M365",
+          "SubCategories": []
+        },
+		{
+          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Name": "PowerPoint Training",
+          "Security": "Visitors",
+          "Image": "",
+          "Type": "SubCategory",
+          "Technology": "M365",
+          "SubCategories": []
+        },
+		{
+          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Name": "SharePoint Online Training",
+          "Security": "Visitors",
+          "Image": "",
+          "Type": "SubCategory",
+          "Technology": "M365",
+          "SubCategories": []
+        },
+		{
+          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Name": "Word Training",
+          "Security": "Visitors",
+          "Image": "",
+          "Type": "SubCategory",
+          "Technology": "M365",
+          "SubCategories": []
+        },
+		{
+          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Name": "Yammer Training",
+          "Security": "Visitors",
+          "Image": "",
+          "Type": "SubCategory",
+          "Technology": "M365",
+          "SubCategories": []
+        },
+        {
+          "Id": "5d1a3e2d-9ebd-43a6-870d-d3fcdb5eed63",
+          "Name": "Microsoft Teams Training",
+          "Security": "Visitors",
+          "Image": "",
+          "Type": "SubCategory",
+          "Technology": "",
+          "SubCategories": []
+        }
+      ]
+    },
     {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
       "Name": "Products",
@@ -428,7 +528,7 @@
       "Image": ""
     },
     {
-      "Name": "End User",
+      "Name": "End Users",
       "Image": ""
     },
     {
