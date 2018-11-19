@@ -1,7 +1,7 @@
 [
   {
     "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "Excel Quick start 4",
+    "Title": "Excel Quick start",
     "Image": "images/playlists/excel_quick_start.png",
     "Level": "Beginner",
     "Audience": "End Users",
@@ -20,7 +20,7 @@
   },
   {
     "Id": "842fb550-07cb-42d1-9a9f-c55789efed57",
-    "Title": "Welcome to Excel 3",
+    "Title": "Welcome to Excel",
     "Image": "images/playlists/welcome_to_excel.png",
     "Level": "Beginner",
     "Audience": "End Users",
@@ -1508,33 +1508,52 @@
     ]
   },
   {
-    "Id": "b13453a4-0ad8-46f2-980c-635061f88a08",
-    "Title": "Test 28",
-    "Image": "images/playlists/connect_your_organization_with_yammer.png",
+    "Id": "170b920d-5fff-4bfa-85c5-61d3dec999da",
+    "Title": "Test 1",
+    "Image": "",
     "Level": "Beginner",
-    "Audience": "IT Pros",
+    "Audience": "Admin",
     "Technology": "Excel",
     "Subject": null,
-    "Category": "Get Started Playlists",
-    "SubCategory": "First Days",
+    "Category": "Products",
+    "SubCategory": "SharePoint",
     "Source": "SOC",
     "Assets": [
-      "03855829-7c7d-43ad-9a68-9ad89d7826aa"
+      "79b77fb9-2837-474f-baa1-337e114a3028",
+      "16ff725b-c8eb-49a3-bb9f-2ee5516b8a53",
+      "695c1308-0c15-44f0-8c66-aa177a76b641",
+      "52b453ea-5fcd-4f7b-b776-590b7a3f22df",
+      "9cae8f77-b777-4a3b-975b-29ea63a8ff2d",
+      "e8e16de0-f26f-4941-adf2-a637cfbd444d",
+      "59cc974c-7df1-4ece-8a14-999d7cd3024d",
+      "39e4f5c2-9c4c-474c-ab65-b26da65b29f3",
+      "3f7eaf21-f138-40ff-b26b-898e2f604d6e"
     ]
   },
   {
-    "Id": "3baead34-a2cd-45d6-9058-d259f633bbbe",
-    "Title": "Test new",
-    "Image": "images/playlists/Cells.png",
-    "Level": "Intermediate",
-    "Audience": "Change Managers",
-    "Technology": "Microsoft Teams",
-    "Subject": "PSTN Calling",
-    "Category": "Change Management",
-    "SubCategory": "Manage Change",
-    "Source": "FastTrack",
-    "Assets": [
-      "86c8663f-42bc-45b7-add6-0bc766643717"
-    ]
+    "Id": "741334c6-9893-44d5-8156-fbf2f545ff26",
+    "Title": "Test 2",
+    "Image": "images/playlists/connect_your_organization_with_yammer.png",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": null,
+    "Category": "Products",
+    "SubCategory": "Excel",
+    "Source": "SOC",
+    "Assets": []
+  },
+  {
+    "Id": "77adbe92-4ea8-4233-a245-740eaaa3096c",
+    "Title": "Test 3",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": null,
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "Assets": []
   }
 ]
