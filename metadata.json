@@ -18,6 +18,11 @@
       "Image": "",
       "Subjects": []
     },
+	{
+      "Name": "Office 365",
+      "Image": "",
+      "Subjects": []
+    },
     {
       "Name": "OneDrive for Business",
       "Image": "",
@@ -95,6 +100,11 @@
     },
     {
       "Name": "Forms",
+      "Image": "",
+      "Subjects": []
+    },
+	{
+      "Name": "Windows 10",
       "Image": "",
       "Subjects": []
     },
@@ -288,7 +298,7 @@
         },
         {
           "Id": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-          "Name": "Microsoft Teams ",
+          "Name": "Microsoft Teams",
           "Security": "Visitors",
           "Image": "images/categories/microsoft_teams_training.png",
           "Type": "SubCategory",
@@ -297,7 +307,7 @@
         },
         {
           "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
-          "Name": "Office 365 ",
+          "Name": "Office 365",
           "Security": "Visitors",
           "Image": "images/categories/office_365_apps_basic_training.png",
           "Type": "SubCategory",
@@ -306,7 +316,7 @@
         },
         {
           "Id": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-          "Name": "OneDrive ",
+          "Name": "OneDrive",
           "Security": "Visitors",
           "Image": "images/categories/onedrive_training.png",
           "Type": "SubCategory",
