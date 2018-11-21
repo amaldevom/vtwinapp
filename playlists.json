@@ -1509,55 +1509,6 @@
     ]
   },
   {
-    "Id": "170b920d-5fff-4bfa-85c5-61d3dec999da",
-    "Title": "Test 1",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Microsoft Teams",
-    "Subject": "PSTN Calling",
-    "Category": "Office 365 Apps",
-    "SubCategory": "Office 365 Basic Training",
-    "Source": "SOC",
-    "Assets": [
-      "695c1308-0c15-44f0-8c66-aa177a76b641",
-      "52b453ea-5fcd-4f7b-b776-590b7a3f22df",
-      "9cae8f77-b777-4a3b-975b-29ea63a8ff2d",
-      "59cc974c-7df1-4ece-8a14-999d7cd3024d",
-      "39e4f5c2-9c4c-474c-ab65-b26da65b29f3",
-      "3f7eaf21-f138-40ff-b26b-898e2f604d6e",
-      "79b77fb9-2837-474f-baa1-337e114a3028",
-      "e8e16de0-f26f-4941-adf2-a637cfbd444d",
-      "16ff725b-c8eb-49a3-bb9f-2ee5516b8a53"
-    ]
-  },
-  {
-    "Id": "23",
-    "Title": "Test 2",
-    "Image": "images/playlists/connect_your_organization_with_yammer.png",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": null,
-    "Category": "Products",
-    "SubCategory": "Excel",
-    "Source": "SOC",
-    "Assets": []
-  },
-  {
-    "Id": "0773d725-657a-40f9-a6fb-6f9882039478",
-    "Title": "Test play list by me",
-    "Image": "images/playlists/m9eHl9js5zC2_dAoZ1p2_0Q.jpg",
-    "Level": "Intermediate",
-    "Audience": "End User",
-    "Technology": "Microsoft Teams",
-    "Subject": "PSTN Calling",
-    "Category": "Products",
-    "SubCategory": "OneNote",
-    "Source": "Microsoft",
-    "Assets": []
-  },
-  {
     "Id": "ccea221d-50f4-4801-a114-23eb45e712bb",
     "Title": "test 3",
     "Image": "images/playlists/images (1).jpeg",
@@ -1568,45 +1519,6 @@
     "Category": "Get Started",
     "SubCategory": "Recommended",
     "Source": "Microsoft",
-    "Assets": []
-  },
-  {
-    "Id": "dsd",
-    "Title": "test duplicate 1",
-    "Image": "dffdfdf",
-    "Level": "Intermediate",
-    "Audience": "Change Manager",
-    "Technology": "Microsoft Teams",
-    "Subject": "Meetings",
-    "Category": "Products",
-    "SubCategory": "Office 365",
-    "Source": "LinkedIn",
-    "Assets": []
-  },
-  {
-    "Id": "4",
-    "Title": "duplicate id 4",
-    "Image": "dsdsd",
-    "Level": "Advanced",
-    "Audience": "Admin",
-    "Technology": "Microsoft Teams",
-    "Subject": "PSTN Calling",
-    "Category": "Office 365 Apps",
-    "SubCategory": "Office 365 Basic Training",
-    "Source": "M365",
-    "Assets": []
-  },
-  {
-    "Id": "3",
-    "Title": "blank playlist",
-    "Image": "sdsd",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Microsoft Teams",
-    "Subject": "PSTN Calling",
-    "Category": "Products",
-    "SubCategory": "OneDrive",
-    "Source": "M365",
     "Assets": []
   },
   {
