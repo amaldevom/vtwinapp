@@ -1514,12 +1514,11 @@
     "Level": "Beginner",
     "Audience": "Admin",
     "Technology": "Microsoft Teams",
-    "Subject": "Meetings",
-    "Category": "Products",
-    "SubCategory": "SharePoint",
+    "Subject": "PSTN Calling",
+    "Category": "Office 365 Apps",
+    "SubCategory": "Office 365 Basic Training",
     "Source": "SOC",
     "Assets": [
-      "16ff725b-c8eb-49a3-bb9f-2ee5516b8a53",
       "695c1308-0c15-44f0-8c66-aa177a76b641",
       "52b453ea-5fcd-4f7b-b776-590b7a3f22df",
       "9cae8f77-b777-4a3b-975b-29ea63a8ff2d",
@@ -1527,7 +1526,8 @@
       "39e4f5c2-9c4c-474c-ab65-b26da65b29f3",
       "3f7eaf21-f138-40ff-b26b-898e2f604d6e",
       "79b77fb9-2837-474f-baa1-337e114a3028",
-      "e8e16de0-f26f-4941-adf2-a637cfbd444d"
+      "e8e16de0-f26f-4941-adf2-a637cfbd444d",
+      "16ff725b-c8eb-49a3-bb9f-2ee5516b8a53"
     ]
   },
   {
