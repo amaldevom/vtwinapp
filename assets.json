@@ -11653,5 +11653,20 @@
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
     "Source": "SOC",
     "StatusTag": ""
+  },
+  {
+    "Id": "bdae2e45-8411-452c-aafd-e97cee41f7ca",
+    "Title": "dssttfsdfdfd",
+    "Description": "fdfdfdf",
+    "Url": "dfdfdfdf",
+    "Level": "Beginner",
+    "Audience": "End User",
+    "Technology": "Office 365 Basics",
+    "Subject": null,
+    "Category": "Office 365 Apps",
+    "SubCategory": "Office 365 Basic Training",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Source": "Microsoft",
+    "StatusTag": "dfdfd"
   }
 ]

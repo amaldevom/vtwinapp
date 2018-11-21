@@ -528,7 +528,8 @@
       "5b72f010-6121-4b91-9011-120d66b000fb",
       "e2653a1f-c10d-4e38-94a4-8bded7d13ca6",
       "f03bf006-3d66-4fad-8adc-9e7919161b05",
-      "a0622cb4-4cb1-49a3-8070-fa52739519fa"
+      "a0622cb4-4cb1-49a3-8070-fa52739519fa",
+      "bdae2e45-8411-452c-aafd-e97cee41f7ca"
     ]
   },
   {
@@ -1658,6 +1659,19 @@
     "Category": "Scenarios",
     "SubCategory": "Modern Workplace",
     "Source": "SOC",
+    "Assets": []
+  },
+  {
+    "Id": "Git has a limit of 4096 characters for a filename, except on Windows when Git is compiled with msys. It uses an older version of the Windows API and there's a limit of 260 characters for a filename.",
+    "Title": "Git has a limit of 4096 characters for a filename, except on Windows when Git is compiled with msys. It uses an older version of the Windows API and there's a limit of 260 characters for a filename.",
+    "Image": "Git has a limit of 4096 characters for a filename, except on Windows when Git is compiled with msys. It uses an older version of the Windows API and there's a limit of 260 characters for a filename.",
+    "Level": "Advanced",
+    "Audience": "HelpDesk",
+    "Technology": "Microsoft Teams",
+    "Subject": "PSTN Calling",
+    "Category": "Office 365 Apps",
+    "SubCategory": "OneDrive for Business Training",
+    "Source": "M365",
     "Assets": []
   }
 ]
