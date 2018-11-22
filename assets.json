@@ -11610,7 +11610,7 @@
     "StatusTag": "dfdfd"
   },
   {
-    "Id": "56472d95-728b-4129-839b-231e9829cceb",
+    "Id": "56472d95-728b-4129-839b-231e9829c",
     "Title": "Quick start",
     "Description": "With Yammer on your PC, Mac, or mobile device, you can:",
     "Url": "https://support.office.com/en-us/article/yammer-video-training-2c0ce4c6-0a99-466f-bf1b-cbe7ffa9779a?wt.mc_id=otc_home&ui=en-US&rs=en-US&ad=US",
@@ -11622,7 +11622,7 @@
     "SubCategory": "Office 365",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
     "Source": "M365",
-    "StatusTag": "Yammer training"
+    "StatusTag": "Yammer training6"
   },
   {
     "Id": "dc365082-ec27-4b55-8e74-589c47d8bd5f",
@@ -11668,5 +11668,50 @@
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
     "Source": "M365",
     "StatusTag": "Yammer training3"
+  },
+  {
+    "Id": "F9rst asset to this play list 1",
+    "Title": "this is the first asset to this categories. This redirect to GIT",
+    "Description": "thi is the sescription for firsta sset",
+    "Url": "https://github.com/amaldevom/vtwinapp",
+    "Level": "Intermediate",
+    "Audience": "HelpDesk",
+    "Technology": "Microsoft Teams",
+    "Subject": "Meetings",
+    "Category": "Get Started",
+    "SubCategory": "What's New/What's Changed",
+    "CatId": "caaf4042-6bb7-4c94-9cac-9b6b334d88f5",
+    "Source": "M365",
+    "StatusTag": "Yammer training6"
+  },
+  {
+    "Id": "This is the second asset",
+    "Title": "Second asset",
+    "Description": "This is second asset for Sign in to SharePoint Online",
+    "Url": "https://support.office.com/en-us/article/sign-in-to-sharepoint-online-324a89ec-e77b-4475-b64a-13a0c14c45ec?wt.mc_id=otc_sharepoint",
+    "Level": "Advanced",
+    "Audience": "Admin",
+    "Technology": "Microsoft Teams",
+    "Subject": "PSTN Calling",
+    "Category": "Office 365 Apps",
+    "SubCategory": "OneDrive for Business Training",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Source": "FastTrack",
+    "StatusTag": "Yammer training3"
+  },
+  {
+    "Id": "e290a683-c1f1-4a21-bd98-26d0b328ab64",
+    "Title": "this is the fourth asset",
+    "Description": "for sharepoint",
+    "Url": "https://support.office.com/en-us/article/video-what-is-sharepoint-online-c17b6824-cc22-478f-8757-497cc6b57121?wt.mc_id=otc_sharepoint",
+    "Level": "Intermediate",
+    "Audience": "Executive Assistant",
+    "Technology": "Office 365",
+    "Subject": null,
+    "Category": "Office 365 Apps",
+    "SubCategory": "Excel Training",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Source": "Microsoft",
+    "StatusTag": "Yammer training6"
   }
 ]
