@@ -19,11 +19,6 @@
       "Subjects": []
     },
     {
-      "Name": "Office 365",
-      "Image": "",
-      "Subjects": []
-    },
-    {
       "Name": "OneDrive for Business",
       "Image": "",
       "Subjects": []
@@ -104,11 +99,6 @@
       "Subjects": []
     },
     {
-      "Name": "Windows 10",
-      "Image": "",
-      "Subjects": []
-    },
-    {
       "Name": "Collaboration",
       "Image": "",
       "Subjects": []
@@ -180,106 +170,6 @@
       ]
     },
     {
-      "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
-      "Name": "Office 365 Apps",
-      "Security": "Visitors",
-      "Image": "",
-      "Type": "Category",
-      "Technology": "",
-      "SubCategories": [
-        {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Excel Training",
-          "Security": "Visitors",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "M365",
-          "SubCategories": []
-        },
-        {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Office 365 Basic Training",
-          "Security": "Visitors",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "M365",
-          "SubCategories": []
-        },
-        {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "OneDrive for Business Training",
-          "Security": "Visitors",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "M365",
-          "SubCategories": []
-        },
-        {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "OneNote Training",
-          "Security": "Visitors",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "M365",
-          "SubCategories": []
-        },
-        {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Outlook Training",
-          "Security": "Visitors",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "M365",
-          "SubCategories": []
-        },
-        {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "PowerPoint Training",
-          "Security": "Visitors",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "M365",
-          "SubCategories": []
-        },
-        {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "SharePoint Online Training",
-          "Security": "Visitors",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "M365",
-          "SubCategories": []
-        },
-        {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Word Training",
-          "Security": "Visitors",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "M365",
-          "SubCategories": []
-        },
-        {
-          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "Yammer Training",
-          "Security": "Visitors",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "M365",
-          "SubCategories": []
-        },
-        {
-          "Id": "5d1a3e2d-9ebd-43a6-870d-d3fcdb5eed63",
-          "Name": "Microsoft Teams Training",
-          "Security": "Visitors",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
       "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
       "Name": "Products",
       "Security": "Visitors",
@@ -298,7 +188,7 @@
         },
         {
           "Id": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-          "Name": "Microsoft Teams",
+          "Name": "Microsoft Teams ",
           "Security": "Visitors",
           "Image": "images/categories/microsoft_teams_training.png",
           "Type": "SubCategory",
@@ -307,7 +197,7 @@
         },
         {
           "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
-          "Name": "Office 365",
+          "Name": "Office 365 ",
           "Security": "Visitors",
           "Image": "images/categories/office_365_apps_basic_training.png",
           "Type": "SubCategory",
@@ -316,7 +206,7 @@
         },
         {
           "Id": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-          "Name": "OneDrive",
+          "Name": "OneDrive ",
           "Security": "Visitors",
           "Image": "images/categories/onedrive_training.png",
           "Type": "SubCategory",
@@ -392,56 +282,7 @@
               "Image": "",
               "Type": "Subject",
               "Technology": "",
-              "SubCategories": [
-                {
-                  "Id": "4cde68df-942e-4061-b308-745e93ed196e",
-                  "Name": "Site Planning Sub 11",
-                  "Security": "Visitors",
-                  "Image": "",
-                  "Type": "Subject",
-                  "Technology": ""
-                },
-                {
-                  "Id": "f0460074-bd17-4854-991f-70b9ae3c16dd",
-                  "Name": "Site Planning Sub 22",
-                  "Security": "Visitors",
-                  "Image": "",
-                  "Type": "Subject",
-                  "Technology": ""
-                },
-                {
-                  "Id": "f48bc7ea-36b8-4781-bf46-bac09a0088c7",
-                  "Name": "Site Planning Sub 33",
-                  "Security": "Visitors",
-                  "Image": "",
-                  "Type": "Subject",
-                  "Technology": ""
-                },
-                {
-                  "Id": "b3453633-a38d-4c7b-868b-1bb31ebf1f25",
-                  "Name": "Site Planning Sub 44",
-                  "Security": "Visitors",
-                  "Image": "images/categories/Cells.png",
-                  "Type": "Subject",
-                  "Technology": "SharePoint"
-                },
-                {
-                  "Id": "db88d1cf-8abc-465e-b46d-8d6abade0b86",
-                  "Name": "Site Planning Sub 55_1",
-                  "Security": "Visitors",
-                  "Image": "images/categories/connect_your_organization_with_yammer.png",
-                  "Type": "Subject",
-                  "Technology": "SharePoint"
-                },
-                {
-                  "Id": "4b99e7fb-d35a-4396-a57d-18200154f0e4",
-                  "Name": "Site Planning Sub 66_1",
-                  "Security": "Visitors",
-                  "Image": "",
-                  "Type": "Subject",
-                  "Technology": "SharePoint"
-                }
-              ]
+              "SubCategories": []
             },
             {
               "Id": "52a98781-2e3a-49d5-8ae4-0acd69c4e70c",
@@ -462,8 +303,8 @@
               "SubCategories": []
             },
             {
-              "Id": "9ee0f1f3-f6da-45b1-b2b3-fc67a7e0492c",
-              "Name": "Site Planning Phase 2",
+              "Id": "c46c399a-f4ef-4e2d-a242-0ceab3e4bf2e",
+              "Name": "Site Planning Sub 1_1",
               "Security": "Visitors",
               "Image": "",
               "Type": "Subject",
@@ -573,5 +414,11 @@
     "Beginner",
     "Intermediate",
     "Advanced"
+  ],
+  "StatusTag": [
+    "",
+    "New",
+    "Updated",
+    "Retired"
   ]
 }
