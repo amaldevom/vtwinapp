@@ -11713,5 +11713,20 @@
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
     "Source": "Microsoft",
     "StatusTag": "Yammer training6"
+  },
+  {
+    "Id": "39f45913-33c8-4d06-a62e-1660a4900eee",
+    "Title": "sas",
+    "Description": "asas",
+    "Url": "https://github.com/amaldevom/vtwinapp",
+    "Level": "Beginner",
+    "Audience": "End User",
+    "Technology": "Excel",
+    "Subject": null,
+    "Category": "Office 365 Apps",
+    "SubCategory": "Excel Training",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Source": "Microsoft",
+    "StatusTag": "test"
   }
 ]
