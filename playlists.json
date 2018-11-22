@@ -1,6 +1,6 @@
 [
   {
-    "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
+    "Id": "this is me",
     "Title": "Excel Quick start",
     "Image": "excel_quick_start.png",
     "Level": "Beginner",
@@ -1894,7 +1894,9 @@
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
     "Description": "",
     "StatusTag": "",
-    "Assets": []
+    "Assets": [
+      "b0ecaf58-8951-4abc-970e-c2f5a2361c78"
+    ]
   },
   {
     "Id": "449cbeea-afe7-4d11-9969-4543e8dabc52",
