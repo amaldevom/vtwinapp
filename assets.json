@@ -11728,5 +11728,20 @@
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
     "Source": "Microsoft",
     "StatusTag": "test"
+  },
+  {
+    "Id": "10c296a5-a01c-49db-b4c5-a11fa960c415",
+    "Title": "dfdf",
+    "Description": "dfdf",
+    "Url": "https://github.com/amaldevom/vtwinapp",
+    "Level": "Beginner",
+    "Audience": "Executive Assistant",
+    "Technology": "Microsoft Teams",
+    "Subject": "PSTN Calling",
+    "Category": "Office 365 Apps",
+    "SubCategory": "Excel Training",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Source": "FastTrack",
+    "StatusTag": "test"
   }
 ]
