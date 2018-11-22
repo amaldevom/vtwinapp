@@ -10,7 +10,8 @@
       "Image": "",
       "Subjects": [
         "Meetings",
-        "PSTN Calling"
+        "PSTN Calling",
+        "one more subject"
       ]
     },
     {
@@ -85,7 +86,7 @@
     },
     {
       "Name": "Publisher",
-      "Image": "",
+      "Image": "images/technologies/images.jpeg",
       "Subjects": []
     },
     {
@@ -102,6 +103,36 @@
       "Name": "Collaboration",
       "Image": "",
       "Subjects": []
+    },
+    {
+      "Name": "Test teschnology",
+      "Image": "images/technologies/Capture.PNG",
+      "Subjects": null
+    },
+    {
+      "Name": "Test technology 2",
+      "Image": "images/technologies/Capture.PNG",
+      "Subjects": null
+    },
+    {
+      "Name": "Tech 1",
+      "Image": "images/technologies/m9eHl9js5zC2_dAoZ1p2_0Q.jpg",
+      "Subjects": null
+    },
+    {
+      "Name": "Test scenerios",
+      "Image": "images/technologies/m9eHl9js5zC2_dAoZ1p2_0Q.jpg",
+      "Subjects": null
+    },
+    {
+      "Name": "trest hshd",
+      "Image": "images/technologies/Capture.PNG",
+      "Subjects": null
+    },
+    {
+      "Name": "dsfdfd",
+      "Image": "dfdfdf",
+      "Subjects": null
     }
   ],
   "Categories": [
@@ -401,6 +432,14 @@
     {
       "Name": "All",
       "Image": ""
+    },
+    {
+      "Name": "This is newly added audience",
+      "Image": "images/audiences/Capture.PNG"
+    },
+    {
+      "Name": "dfgg",
+      "Image": ""
     }
   ],
   "Sources": [
@@ -408,12 +447,15 @@
     "FastTrack",
     "M365",
     "Microsoft",
-    "LinkedIn"
+    "LinkedIn",
+    "test soursce2",
+    "test technology for source"
   ],
   "Levels": [
     "Beginner",
     "Intermediate",
-    "Advanced"
+    "Advanced",
+    "Final"
   ],
   "StatusTag": [
     "",
