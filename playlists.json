@@ -3,22 +3,23 @@
     "Id": "e7b30970-29c9-4a94-8d78-b683c38405f3",
     "Title": "Excel Quick start",
     "Image": "excel_quick_start.png",
-    "Level": "Beginner",
-    "Audience": "End User",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Products",
-    "SubCategory": "Excel",
-    "Source": "Microsoft",
-    "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
+    "Level": "Intermediate",
+    "Audience": "Champion/Trainer",
+    "Technology": "Microsoft Teams",
+    "Subject": "one more subject",
+    "Category": "Get Started",
+    "SubCategory": "First Days",
+    "Source": "FastTrack",
+    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
     "Description": "",
     "StatusTag": "",
     "Assets": [
-      "94b00f50-5896-479c-b0c5-ff74603b35a3",
       "0cf0055d-49f8-464e-9dfa-8f582b32453b",
       "11a632c1-197e-454f-a515-374a4aa2b3dd",
       "a8af741e-00f2-44c0-a94b-38abd51af01f",
-      "64b51431-c51a-45db-8ddd-d58b9b101c42"
+      "64b51431-c51a-45db-8ddd-d58b9b101c42",
+      "2",
+      "99e12afa-886a-425a-b07cuyiujhbnb7868hjb"
     ]
   },
   {
@@ -315,11 +316,11 @@
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Microsoft Teams",
-    "Subject": "",
+    "Subject": "Meetings",
     "Category": "Products",
-    "SubCategory": "Microsoft Teams ",
+    "SubCategory": "",
     "Source": "Microsoft",
-    "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
+    "CatId": "",
     "Description": "",
     "StatusTag": "",
     "Assets": [
@@ -1963,8 +1964,8 @@
     "Assets": []
   },
   {
-    "Id": "Test by anu",
-    "Title": "Test 1e",
+    "Id": "kjjkyujyuhbnb",
+    "Title": "Test 14544ytyuy",
     "Image": "images/playlists/Capture.PNG",
     "Level": "Beginner",
     "Audience": "Admin",
@@ -1976,7 +1977,9 @@
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
     "Description": "Test",
     "StatusTag": "Updated",
-    "Assets": []
+    "Assets": [
+      "3a9f46f5-eb90-4151-822a-0fcf73163fe8"
+    ]
   },
   {
     "Id": "88ac3306-65b3-4ecf-8465-82862d04aa01",
@@ -2008,7 +2011,9 @@
     "CatId": "",
     "Description": "test description",
     "StatusTag": "New",
-    "Assets": []
+    "Assets": [
+      "d5d48d63-2a0e-403f-a447-d805ee7ae9ee"
+    ]
   },
   {
     "Id": "4a0d4291-6d2f-4d77-9ef7-6357f3cd50ea",
@@ -2041,5 +2046,21 @@
     "Description": "test description",
     "StatusTag": "New",
     "Assets": []
+  },
+  {
+    "Id": "test list",
+    "Title": "title",
+    "Image": "image",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": null,
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "description",
+    "StatusTag": "Updated",
+    "Assets": []
   }
-]
+  ]
