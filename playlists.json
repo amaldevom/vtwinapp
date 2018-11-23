@@ -1959,21 +1959,5 @@
     "Description": "",
     "StatusTag": "",
     "Assets": []
-  },
-  {
-    "Id": "662518a5-e602-43a2-9614-30fe59df4077",
-    "Title": "Test 1",
-    "Image": "dfsgd",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": null,
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "afdsgd",
-    "StatusTag": "",
-    "Assets": []
   }
 ]
