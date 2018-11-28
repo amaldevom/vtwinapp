@@ -61,10 +61,10 @@
     "Assets": [
       "7450f58a-517f-48ae-bace-248346e52275",
       "2d73d527-2725-4bed-b199-9a981362b5f9",
-      "94708bae-df5c-4c3b-888c-621cf5d4bc94",
       "95146525-ce4f-4ff6-a118-c0724deb1a98",
       "0edb925e-2af7-47fb-895a-28a07d5b73d4",
-      "217a1077-e1f1-4334-b509-ec63eee68572"
+      "217a1077-e1f1-4334-b509-ec63eee68572",
+      "94708bae-df5c-4c3b-888c-621cf5d4bc94"
     ]
   },
   {
@@ -1961,13 +1961,81 @@
     "Assets": []
   },
   {
-    "Id": "d05e84e2-7390-43a8-bd0a-4418b399fc25",
-    "Title": "Test 25",
-    "Image": "cdfggfhgj",
+    "Id": "c5f512a1-034f-4ff2-99c5-c5de8ec24bbd",
+    "Title": "Test Test",
+    "Image": "Test image 1",
     "Level": "Beginner",
     "Audience": "Admin",
     "Technology": "Excel",
     "Subject": null,
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "Test Desc 1",
+    "StatusTag": "",
+    "Assets": []
+  },
+  {
+    "Id": "adafc80e-2874-459f-8859-71bcfacca156",
+    "Title": "Test Playlist 21",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": null,
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "Updated",
+    "Assets": []
+  },
+  {
+    "Id": "3012dc06-82de-42a9-9b97-4e3657ca42a1",
+    "Title": "Test Playlist 5",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "",
+    "Assets": [
+      "d540c1d0-52d7-4719-aad2-8f38bb5ac1a9",
+      "2841ef67-b285-4d3a-b809-1ad186f35f5c",
+      "7657b28d-da5e-46ea-b761-7123bcdccd12"
+    ]
+  },
+  {
+    "Id": "c283aa2e-9a2f-4f30-9202-c75e6b7afa6b",
+    "Title": "Test Playlist 6",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "",
+    "Assets": []
+  },
+  {
+    "Id": "ed32b9b2-9c8d-47d3-b86b-9e72024a448b",
+    "Title": "Test Playlist 7",
+    "Image": "images/playlists/create_impactful_content_together.png",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
     "Category": "Scenarios",
     "SubCategory": "Modern Workplace",
     "Source": "SOC",
