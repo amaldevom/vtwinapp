@@ -1926,9 +1926,7 @@
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
     "Description": "",
     "StatusTag": "",
-    "Assets": [
-      "a449a07a-2432-4ccf-9ed0-a3fbeabf83e2"
-    ]
+    "Assets": []
   },
   {
     "Id": "468df013-1b48-4a3a-848f-9c1cb6e01aa8",
@@ -2076,12 +2074,14 @@
     "CatId": "bfde3f23-dc45-4746-a877-9aaecae59706",
     "Description": "Added on 29th as description",
     "StatusTag": "Retired",
-    "Assets": []
+    "Assets": [
+      "a7af87d9-a84d-4c59-9ed8-1433675772a1"
+    ]
   },
   {
-    "Id": "09e9840a-8166-411a-ae18-8facbe58a9ef",
-    "Title": "sererere",
-    "Image": "",
+    "Id": "34d9bb43-dbc1-4006-87d4-e69504671520",
+    "Title": "Playlist added by second person",
+    "Image": "images/playlists/Traffic-signs-manual-chapter-3-diagram_640-3_(2008).svg.png",
     "Level": "Beginner",
     "Audience": "Admin",
     "Technology": "Excel",
@@ -2090,7 +2090,7 @@
     "SubCategory": "Modern Workplace",
     "Source": "SOC",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "ereerererer",
+    "Description": "",
     "StatusTag": "",
     "Assets": []
   }
