@@ -2076,7 +2076,9 @@
     "CatId": "bfde3f23-dc45-4746-a877-9aaecae59706",
     "Description": "Added on 29th as description",
     "StatusTag": "Retired",
-    "Assets": []
+    "Assets": [
+      "689956e9-dd2d-4ed4-a149-2d2164421f89"
+    ]
   },
   {
     "Id": "09e9840a-8166-411a-ae18-8facbe58a9ef",
