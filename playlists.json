@@ -2076,7 +2076,9 @@
     "CatId": "bfde3f23-dc45-4746-a877-9aaecae59706",
     "Description": "Added on 29th as description",
     "StatusTag": "Retired",
-    "Assets": []
+    "Assets": [
+      "ab5427d4-0edb-4332-b5ce-f42dfddf30c8"
+    ]
   },
   {
     "Id": "09e9840a-8166-411a-ae18-8facbe58a9ef",
@@ -2095,7 +2097,7 @@
     "Assets": []
   },
   {
-    "Id": "48d59d86-ac78-47cd-b7c0-2079a9d6d5fb",
+    "Id": "431e602b-569a-41f2-b4bc-7cc12f203c3c",
     "Title": "Sample from hjason",
     "Image": "",
     "Level": "Beginner",
@@ -2106,7 +2108,7 @@
     "SubCategory": "Modern Workplace",
     "Source": "SOC",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "didgfdffss",
+    "Description": "didgfdff",
     "StatusTag": "",
     "Assets": []
   }
