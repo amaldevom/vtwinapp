@@ -1855,7 +1855,7 @@
     "Level": "Intermediate",
     "Audience": "Content Manager",
     "Technology": "SharePoint",
-    "Subject": "Site Creation",
+    "Subject": "",
     "Category": "Products",
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
@@ -2009,9 +2009,9 @@
     "Description": "",
     "StatusTag": "",
     "Assets": [
+      "d540c1d0-52d7-4719-aad2-8f38bb5ac1a9",
       "2841ef67-b285-4d3a-b809-1ad186f35f5c",
-      "7657b28d-da5e-46ea-b761-7123bcdccd12",
-      "d540c1d0-52d7-4719-aad2-8f38bb5ac1a9"
+      "7657b28d-da5e-46ea-b761-7123bcdccd12"
     ]
   },
   {
@@ -2065,11 +2065,11 @@
   {
     "Id": "4e9856d4-08f2-41c0-93b4-c33682f978ea",
     "Title": "Added on 29 Nov",
-    "Image": "images/playlists/download.png",
+    "Image": "images/playlists/images (1).jpeg",
     "Level": "Beginner",
     "Audience": "Admin",
     "Technology": "Office 365 Basics",
-    "Subject": null,
+    "Subject": "",
     "Category": "Category Test 3",
     "SubCategory": "Sub Cat Test 1",
     "Source": "Microsoft",
@@ -2095,24 +2095,8 @@
     "Assets": []
   },
   {
-    "Id": "03bc3db1-46a2-467b-83cf-287171fec421",
-    "Title": "Add playlist for check",
-    "Image": "images/playlists/m9eHl9js5zC2_dAoZ1p2_0Q.jpg",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "dsd",
-    "StatusTag": "",
-    "Assets": []
-  },
-  {
-    "Id": "8d55aea7-480d-49ff-bf64-0181c41fb2a9",
-    "Title": "dfdfdfd",
+    "Id": "48d59d86-ac78-47cd-b7c0-2079a9d6d5fb",
+    "Title": "Sample from hjason",
     "Image": "",
     "Level": "Beginner",
     "Audience": "Admin",
@@ -2122,23 +2106,7 @@
     "SubCategory": "Modern Workplace",
     "Source": "SOC",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "ddf",
-    "StatusTag": "",
-    "Assets": []
-  },
-  {
-    "Id": "8bbedd17-3d5f-420d-a61d-9fc24ba7951d",
-    "Title": "xcxc",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "xcxc",
+    "Description": "didgfdffss",
     "StatusTag": "",
     "Assets": []
   }
