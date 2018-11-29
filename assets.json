@@ -6782,5 +6782,37 @@
     "MediaId": "sdsd",
     "Source": "Microsoft",
     "StatusTag": "Retired"
+  },
+  {
+    "Id": "689956e9-dd2d-4ed4-a149-2d2164421f89",
+    "Title": "Test from nisha",
+    "Description": "dfdf",
+    "Url": "dfdfdf",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Office 365 Basics",
+    "Subject": "",
+    "Category": "Category Test 3",
+    "SubCategory": "Sub Cat Test 1",
+    "CatId": "bfde3f23-dc45-4746-a877-9aaecae59706",
+    "MediaId": "",
+    "Source": "Microsoft",
+    "StatusTag": "Retired"
+  },
+  {
+    "Id": "c9ae09c7-1b7b-4560-8745-fd463e13196f",
+    "Title": "This is sample asset",
+    "Description": "fdfd",
+    "Url": "dfdf",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "MediaId": "dfdf",
+    "Source": "SOC",
+    "StatusTag": ""
   }
 ]
