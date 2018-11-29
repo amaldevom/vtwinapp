@@ -112,6 +112,13 @@
         "Test Subj 3",
         "Test Subj 4"
       ]
+    },
+    {
+      "Name": "Tech 1",
+      "Image": "",
+      "Subjects": [
+        "Test subject"
+      ]
     }
   ],
   "Categories": [

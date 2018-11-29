@@ -1739,9 +1739,9 @@
       "52db606b-2f29-4a9a-8cbb-b43bf2a27d2e",
       "eb096f3b-ef81-49d8-9b44-9bec6fe50c3c",
       "e9f31b53-f1b1-407f-8cd6-6cda93fe23be",
-      "4ca4f40e-f9ee-4554-aa6d-e00687977875",
       "544eb5b9-c69a-4609-ac09-bb169b1098d0",
-      "b8e6c9cd-bbca-49b6-bb28-7ed313d52fb0"
+      "b8e6c9cd-bbca-49b6-bb28-7ed313d52fb0",
+      "4ca4f40e-f9ee-4554-aa6d-e00687977875"
     ]
   },
   {
@@ -1926,7 +1926,9 @@
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
     "Description": "",
     "StatusTag": "",
-    "Assets": []
+    "Assets": [
+      "a449a07a-2432-4ccf-9ed0-a3fbeabf83e2"
+    ]
   },
   {
     "Id": "468df013-1b48-4a3a-848f-9c1cb6e01aa8",
@@ -2074,14 +2076,12 @@
     "CatId": "bfde3f23-dc45-4746-a877-9aaecae59706",
     "Description": "Added on 29th as description",
     "StatusTag": "Retired",
-    "Assets": [
-      "a7af87d9-a84d-4c59-9ed8-1433675772a1"
-    ]
+    "Assets": []
   },
   {
-    "Id": "34d9bb43-dbc1-4006-87d4-e69504671520",
-    "Title": "Playlist added by second person",
-    "Image": "images/playlists/Traffic-signs-manual-chapter-3-diagram_640-3_(2008).svg.png",
+    "Id": "09e9840a-8166-411a-ae18-8facbe58a9ef",
+    "Title": "sererere",
+    "Image": "",
     "Level": "Beginner",
     "Audience": "Admin",
     "Technology": "Excel",
@@ -2090,7 +2090,39 @@
     "SubCategory": "Modern Workplace",
     "Source": "SOC",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "",
+    "Description": "ereerererer",
+    "StatusTag": "",
+    "Assets": []
+  },
+  {
+    "Id": "03bc3db1-46a2-467b-83cf-287171fec421",
+    "Title": "Add playlist for check",
+    "Image": "images/playlists/m9eHl9js5zC2_dAoZ1p2_0Q.jpg",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "dsd",
+    "StatusTag": "",
+    "Assets": []
+  },
+  {
+    "Id": "8d55aea7-480d-49ff-bf64-0181c41fb2a9",
+    "Title": "dfdfdfd",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "ddf",
     "StatusTag": "",
     "Assets": []
   }
