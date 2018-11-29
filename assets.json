@@ -6798,5 +6798,21 @@
     "MediaId": "",
     "Source": "Microsoft",
     "StatusTag": "Retired"
+  },
+  {
+    "Id": "c9ae09c7-1b7b-4560-8745-fd463e13196f",
+    "Title": "This is sample asset",
+    "Description": "fdfd",
+    "Url": "dfdf",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "MediaId": "dfdf",
+    "Source": "SOC",
+    "StatusTag": ""
   }
 ]

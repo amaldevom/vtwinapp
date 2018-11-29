@@ -2127,6 +2127,24 @@
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
     "Description": "ddfdfdfdfdfdfd",
     "StatusTag": "",
+    "Assets": [
+      "c9ae09c7-1b7b-4560-8745-fd463e13196f"
+    ]
+  },
+  {
+    "Id": "068bdc07-f206-4744-a24d-78142b83b316",
+    "Title": "Playlist from my system",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "dfddfdf",
+    "StatusTag": "",
     "Assets": []
   },
   {
