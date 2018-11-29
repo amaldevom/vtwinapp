@@ -1926,7 +1926,9 @@
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
     "Description": "",
     "StatusTag": "",
-    "Assets": []
+    "Assets": [
+      "a449a07a-2432-4ccf-9ed0-a3fbeabf83e2"
+    ]
   },
   {
     "Id": "468df013-1b48-4a3a-848f-9c1cb6e01aa8",
@@ -1963,10 +1965,10 @@
   {
     "Id": "c5f512a1-034f-4ff2-99c5-c5de8ec24bbd",
     "Title": "Test Test",
-    "Image": "Test image 1",
+    "Image": "images/playlists/m9eHl9js5zC2_dAoZ1p2_0Q.jpg",
     "Level": "Beginner",
     "Audience": "Admin",
-    "Technology": "Excel",
+    "Technology": "OneNote",
     "Subject": null,
     "Category": "Scenarios",
     "SubCategory": "Modern Workplace",
@@ -2041,6 +2043,54 @@
     "Source": "SOC",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
     "Description": "",
+    "StatusTag": "",
+    "Assets": []
+  },
+  {
+    "Id": "b6c72ff2-104d-44ad-bc10-d1c2c7ea169c",
+    "Title": "mnb",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "dsdddsd",
+    "StatusTag": "",
+    "Assets": []
+  },
+  {
+    "Id": "4e9856d4-08f2-41c0-93b4-c33682f978ea",
+    "Title": "Added on 29 Nov",
+    "Image": "images/playlists/download.png",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Office 365 Basics",
+    "Subject": null,
+    "Category": "Category Test 3",
+    "SubCategory": "Sub Cat Test 1",
+    "Source": "Microsoft",
+    "CatId": "bfde3f23-dc45-4746-a877-9aaecae59706",
+    "Description": "Added on 29th as description",
+    "StatusTag": "Retired",
+    "Assets": []
+  },
+  {
+    "Id": "09e9840a-8166-411a-ae18-8facbe58a9ef",
+    "Title": "sererere",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "ereerererer",
     "StatusTag": "",
     "Assets": []
   }
