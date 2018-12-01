@@ -6814,5 +6814,21 @@
     "MediaId": "dfdf",
     "Source": "SOC",
     "StatusTag": ""
+  },
+  {
+    "Id": "cb6db429-c398-487b-9dd7-8f3abf1bd1b3",
+    "Title": "Test Asset 1 to Playlist 1",
+    "Description": "",
+    "Url": "sdafsfgdhfgj",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "MediaId": "",
+    "Source": "SOC",
+    "StatusTag": ""
   }
 ]
