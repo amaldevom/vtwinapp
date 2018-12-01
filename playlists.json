@@ -2199,7 +2199,7 @@
   },
   {
     "Id": "7dee7894-6dbd-44a8-bb9e-2d69ae09262e",
-    "Title": "Playlist2",
+    "Title": "Playlist2_1",
     "Image": "",
     "Level": "Beginner",
     "Audience": "Admin",
@@ -2214,8 +2214,8 @@
     "Assets": []
   },
   {
-    "Id": "163a4c1e-020a-499d-bdc3-b227ccee5a7b",
-    "Title": "Playlist4",
+    "Id": "02ac19da-ed9b-4e36-b939-1aedd599eaed",
+    "Title": "Test Playlist on Demo",
     "Image": "",
     "Level": "Beginner",
     "Audience": "Admin",
@@ -2225,8 +2225,10 @@
     "SubCategory": "Modern Workplace",
     "Source": "SOC",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "sdsdsd",
+    "Description": "",
     "StatusTag": "",
-    "Assets": []
+    "Assets": [
+      "1c9484f8-660d-4dc6-8597-a148dc2bc8dd"
+    ]
   }
 ]

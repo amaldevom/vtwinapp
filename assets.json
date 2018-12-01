@@ -6830,5 +6830,21 @@
     "MediaId": "",
     "Source": "SOC",
     "StatusTag": ""
+  },
+  {
+    "Id": "1c9484f8-660d-4dc6-8597-a148dc2bc8dd",
+    "Title": "Test asset to demo playlist",
+    "Description": "",
+    "Url": "sxacdf",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "MediaId": "",
+    "Source": "SOC",
+    "StatusTag": ""
   }
 ]
