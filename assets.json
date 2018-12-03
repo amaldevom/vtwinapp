@@ -6848,19 +6848,19 @@
     "StatusTag": ""
   },
   {
-    "Id": "e057824f-c684-47bf-9d1a-8681c781bfb6",
-    "Title": "New asset added",
+    "Id": "eb739ef2-7930-4729-9c86-df6b33d9fb59",
+    "Title": "test asset",
     "Description": "",
     "Url": "http://www.microsoft.com",
     "Level": "Beginner",
-    "Audience": "End User",
+    "Audience": "Admin",
     "Technology": "Excel",
     "Subject": "",
-    "Category": "Products",
-    "SubCategory": "Excel",
-    "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
+    "Category": "Scenarios",
+    "SubCategory": "Collaboration",
+    "CatId": "5d1a3e2d-9ebd-43a6-870d-d3fcdb5eed63",
     "MediaId": "",
-    "Source": "Microsoft",
+    "Source": "SOC",
     "StatusTag": ""
   }
 ]

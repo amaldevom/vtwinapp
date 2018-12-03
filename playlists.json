@@ -14,12 +14,11 @@
     "Description": "",
     "StatusTag": "",
     "Assets": [
-      "0cf0055d-49f8-464e-9dfa-8f582b32453b",
-      "11a632c1-197e-454f-a515-374a4aa2b3dd",
-      "a8af741e-00f2-44c0-a94b-38abd51af01f",
-      "94b00f50-5896-479c-b0c5-ff74603b35a3",
       "64b51431-c51a-45db-8ddd-d58b9b101c42",
-      "e057824f-c684-47bf-9d1a-8681c781bfb6"
+      "0cf0055d-49f8-464e-9dfa-8f582b32453b",
+      "a8af741e-00f2-44c0-a94b-38abd51af01f",
+      "11a632c1-197e-454f-a515-374a4aa2b3dd",
+      "94b00f50-5896-479c-b0c5-ff74603b35a3"
     ]
   },
   {
@@ -2230,6 +2229,24 @@
     "StatusTag": "",
     "Assets": [
       "1c9484f8-660d-4dc6-8597-a148dc2bc8dd"
+    ]
+  },
+  {
+    "Id": "e7680651-119c-4ebe-a4d5-660532622dc9",
+    "Title": "New Playlist added",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Collaboration",
+    "Source": "SOC",
+    "CatId": "5d1a3e2d-9ebd-43a6-870d-d3fcdb5eed63",
+    "Description": "",
+    "StatusTag": "",
+    "Assets": [
+      "eb739ef2-7930-4729-9c86-df6b33d9fb59"
     ]
   }
 ]
