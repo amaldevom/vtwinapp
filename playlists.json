@@ -14,10 +14,11 @@
     "Description": "",
     "StatusTag": "",
     "Assets": [
-      "64b51431-c51a-45db-8ddd-d58b9b101c42",
       "0cf0055d-49f8-464e-9dfa-8f582b32453b",
       "a8af741e-00f2-44c0-a94b-38abd51af01f",
+      "64b51431-c51a-45db-8ddd-d58b9b101c42",
       "11a632c1-197e-454f-a515-374a4aa2b3dd",
+      "2a35c2c9-8a59-4b55-a307-3847029aca28",
       "94b00f50-5896-479c-b0c5-ff74603b35a3"
     ]
   },
@@ -2247,6 +2248,24 @@
     "StatusTag": "",
     "Assets": [
       "eb739ef2-7930-4729-9c86-df6b33d9fb59"
+    ]
+  },
+  {
+    "Id": "e59bc28c-1ef8-477f-af3a-d34e4ba94890",
+    "Title": "Demo to Peter-Added new playlist",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Microsoft Teams",
+    "Subject": "Meetings",
+    "Category": "Scenarios",
+    "SubCategory": "Collaboration",
+    "Source": "SOC",
+    "CatId": "5d1a3e2d-9ebd-43a6-870d-d3fcdb5eed63",
+    "Description": "",
+    "StatusTag": "New",
+    "Assets": [
+      "c3a8f52a-5948-4264-a627-4ddf30458735"
     ]
   }
 ]

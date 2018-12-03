@@ -112,7 +112,8 @@
         "Test Subj 3",
         "Test Subj 4",
         "Subject2",
-        "Subject2 - updated"
+        "Subject2 - updated",
+        "Subject2 - added"
       ]
     },
     {
@@ -525,6 +526,7 @@
   "StatusTag": [
     "New",
     "Updated",
-    "Retired"
+    "Retired",
+    "BETA"
   ]
 }
