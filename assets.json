@@ -65,7 +65,7 @@
   },
   {
     "Id": "64b51431-c51a-45db-8ddd-d58b9b101c42",
-    "Title": "Set up your mobile apps",
+    "Title": "Set up your mobile apps - updated",
     "Description": "",
     "Url": "https://support.office.com/en-us/client/64b51431-c51a-45db-8ddd-d58b9b101c42?embed=true&ns=trainingservices&version=1",
     "Level": "Beginner",
@@ -6845,6 +6845,22 @@
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
     "MediaId": "",
     "Source": "SOC",
+    "StatusTag": ""
+  },
+  {
+    "Id": "e057824f-c684-47bf-9d1a-8681c781bfb6",
+    "Title": "New asset added",
+    "Description": "",
+    "Url": "http://www.microsoft.com",
+    "Level": "Beginner",
+    "Audience": "End User",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Products",
+    "SubCategory": "Excel",
+    "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
+    "MediaId": "",
+    "Source": "Microsoft",
     "StatusTag": ""
   }
 ]
