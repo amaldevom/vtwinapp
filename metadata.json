@@ -104,13 +104,16 @@
       "Subjects": []
     },
     {
-      "Name": "Test Tech 1",
+      "Name": "Test Tech 1 - updated",
       "Image": "",
       "Subjects": [
         "Test Subj 1",
         "Test Subj 2",
         "Test Subj 3",
-        "Test Subj 4"
+        "Test Subj 4",
+        "Subject2",
+        "Subject2 - updated",
+        "Subject2 - added"
       ]
     },
     {
@@ -427,12 +430,22 @@
     },
     {
       "Id": "5ba0d816-3551-4c9a-ac2f-35c89ba1aee7",
-      "Name": "Category Test 1",
+      "Name": "Category Test 1 - updated",
       "Security": "Visitors",
       "Image": "",
       "Type": "Category",
       "Technology": "PowerPoint",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "0c92f811-3d0c-4df6-ae5d-8df6f44de138",
+          "Name": "subcate added",
+          "Security": "",
+          "Image": "",
+          "Type": "SubCategory",
+          "Technology": "PowerPoint",
+          "SubCategories": []
+        }
+      ]
     },
     {
       "Id": "e823cb7e-b218-4087-a70f-280f70891a3d",
@@ -537,10 +550,6 @@
     {
       "Name": "Test Role 6",
       "Image": ""
-    },
-    {
-      "Name": "Test Role 7",
-      "Image": ""
     }
   ],
   "Sources": [
@@ -560,6 +569,7 @@
   "StatusTag": [
     "New",
     "Updated",
-    "Retired"
+    "Retired",
+    "BETA"
   ]
 }

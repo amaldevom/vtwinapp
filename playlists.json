@@ -1,8 +1,8 @@
 [
   {
     "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "Excel Quick start",
-    "Image": "excel_quick_start.png",
+    "Title": "Excel Quick start - updated",
+    "Image": "images/playlists/excel_quick_start.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Excel",
@@ -15,9 +15,9 @@
     "StatusTag": "",
     "Assets": [
       "0cf0055d-49f8-464e-9dfa-8f582b32453b",
-      "11a632c1-197e-454f-a515-374a4aa2b3dd",
       "a8af741e-00f2-44c0-a94b-38abd51af01f",
       "64b51431-c51a-45db-8ddd-d58b9b101c42",
+      "11a632c1-197e-454f-a515-374a4aa2b3dd",
       "94b00f50-5896-479c-b0c5-ff74603b35a3"
     ]
   },
@@ -2228,9 +2228,7 @@
     "Description": "",
     "StatusTag": "",
     "Assets": [
-      "088137a8-f5e2-4472-960e-c168bf6b70f9",
       "1c9484f8-660d-4dc6-8597-a148dc2bc8dd",
-      "feaaeccb-ade2-43fd-8300-24290682ad48"
     ]
   }
 ]
