@@ -16,9 +16,10 @@
     "Assets": [
       "0cf0055d-49f8-464e-9dfa-8f582b32453b",
       "a8af741e-00f2-44c0-a94b-38abd51af01f",
-      "64b51431-c51a-45db-8ddd-d58b9b101c42",
       "11a632c1-197e-454f-a515-374a4aa2b3dd",
-      "94b00f50-5896-479c-b0c5-ff74603b35a3"
+      "64b51431-c51a-45db-8ddd-d58b9b101c42",
+      "94b00f50-5896-479c-b0c5-ff74603b35a3",
+      "2481dfd1-52fd-4b43-8bd9-6a848715336e"
     ]
   },
   {
@@ -2113,24 +2114,6 @@
     "Assets": []
   },
   {
-    "Id": "f13fd516-380e-49a5-94f2-881072277904",
-    "Title": "This is from nisha",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "ddfdfdfdfdfdfd",
-    "StatusTag": "",
-    "Assets": [
-      "c9ae09c7-1b7b-4560-8745-fd463e13196f"
-    ]
-  },
-  {
     "Id": "068bdc07-f206-4744-a24d-78142b83b316",
     "Title": "Playlist from my system",
     "Image": "",
@@ -2144,88 +2127,26 @@
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
     "Description": "dfddfdf",
     "StatusTag": "",
-    "Assets": []
-  },
-  {
-    "Id": "4427c391-5efc-47d2-99f9-1943c17aefd3",
-    "Title": "This is also another  playlist",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "dfdfdf",
-    "StatusTag": "",
-    "Assets": []
-  },
-  {
-    "Id": "31ddf6d1-cd61-47c8-9d3a-6e03ee4eebdb",
-    "Title": "Third play list_1",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "sdsdsd",
-    "StatusTag": "",
-    "Assets": []
-  },
-  {
-    "Id": "6c9d982c-7a48-450d-9400-966a4a2e6a30",
-    "Title": "Playlist1",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "sdsdsdsd",
-    "StatusTag": "",
     "Assets": [
-      "cb6db429-c398-487b-9dd7-8f3abf1bd1b3"
+      "04ddd18c-289b-4238-9434-bef6a43f5350"
     ]
   },
   {
-    "Id": "7dee7894-6dbd-44a8-bb9e-2d69ae09262e",
-    "Title": "Playlist2_4",
+    "Id": "af9ce5fb-3242-4a5e-966c-9354369b2736",
+    "Title": "New playlist",
     "Image": "",
     "Level": "Beginner",
     "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
+    "Technology": "OneDrive for Business",
+    "Subject": null,
     "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
+    "SubCategory": "First Days",
     "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "ssasa",
-    "StatusTag": "",
-    "Assets": []
-  },
-  {
-    "Id": "02ac19da-ed9b-4e36-b939-1aedd599eaed",
-    "Title": "Test Playlist on Demo",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "CatId": "cb29cc0c-5ed3-4d3d-93c2-9b70081e5840",
     "Description": "",
     "StatusTag": "",
-    "Assets": []
+    "Assets": [
+      "800f1ff3-9ad1-4d0c-8148-4a9978e6356d"
+    ]
   }
 ]

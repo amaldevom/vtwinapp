@@ -117,7 +117,7 @@
       ]
     },
     {
-      "Name": "Tech 1",
+      "Name": "Tech 1 - updated",
       "Image": "",
       "Subjects": [
         "Test subject",
@@ -394,6 +394,15 @@
           "Name": "Recommended",
           "Security": "Visitors",
           "Image": "images/categories/recommended.png",
+          "Type": "SubCategory",
+          "Technology": "",
+          "SubCategories": []
+        },
+        {
+          "Id": "ad8a9bdc-0459-4f28-b050-96ff52d94d3c",
+          "Name": "sub added 12_4",
+          "Security": "Visitors",
+          "Image": "",
           "Type": "SubCategory",
           "Technology": "",
           "SubCategories": []
