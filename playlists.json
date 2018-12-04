@@ -2077,13 +2077,12 @@
     "Description": "Added on 29th as description",
     "StatusTag": "Retired",
     "Assets": [
-      "689956e9-dd2d-4ed4-a149-2d2164421f89",
       "ab5427d4-0edb-4332-b5ce-f42dfddf30c8"
     ]
   },
   {
     "Id": "09e9840a-8166-411a-ae18-8facbe58a9ef",
-    "Title": "sererere",
+    "Title": "sererere1",
     "Image": "",
     "Level": "Beginner",
     "Audience": "Admin",
@@ -2227,8 +2226,6 @@
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
     "Description": "",
     "StatusTag": "",
-    "Assets": [
-      "1c9484f8-660d-4dc6-8597-a148dc2bc8dd",
-    ]
+    "Assets": []
   }
 ]
