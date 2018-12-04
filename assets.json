@@ -6846,5 +6846,37 @@
     "MediaId": "",
     "Source": "SOC",
     "StatusTag": ""
+  },
+  {
+    "Id": "feaaeccb-ade2-43fd-8300-24290682ad48",
+    "Title": "Test Asset 2 demo_2",
+    "Description": "",
+    "Url": "xcvbvnm",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "MediaId": "",
+    "Source": "SOC",
+    "StatusTag": ""
+  },
+  {
+    "Id": "088137a8-f5e2-4472-960e-c168bf6b70f9",
+    "Title": "Test Asset 3 demo",
+    "Description": "",
+    "Url": "dfgdhfyj",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "MediaId": "",
+    "Source": "SOC",
+    "StatusTag": ""
   }
 ]
