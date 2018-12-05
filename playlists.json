@@ -2148,5 +2148,43 @@
     "Assets": [
       "800f1ff3-9ad1-4d0c-8148-4a9978e6356d"
     ]
+  },
+  {
+    "Id": "554de849-a370-47a7-bb7f-40fa9227f711",
+    "Title": "Test Playlist 8",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "",
+    "Assets": [
+      "b6de9f9b-c668-49f7-9b22-4f704e77bc98",
+      "ad92d83c-9158-44ab-bc01-01d3b4bdcebb"
+    ]
+  },
+  {
+    "Id": "d19ef500-7783-4890-a00d-51296a8275ab",
+    "Title": "Test Playlist 9",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "",
+    "Assets": [
+      "c530931a-7104-417b-9ddd-d66ba4b1df5d",
+      "64d82811-5582-432c-82de-e44ccfd266a3"
+    ]
   }
 ]
