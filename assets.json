@@ -6862,5 +6862,37 @@
     "MediaId": "",
     "Source": "SOC",
     "StatusTag": ""
+  },
+  {
+    "Id": "d2d78569-ee80-4fc0-a02d-bbb5775f35ea",
+    "Title": "Test Asset 1 to Playlist 10",
+    "Description": "",
+    "Url": "qsdfgthy",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "MediaId": "",
+    "Source": "SOC",
+    "StatusTag": ""
+  },
+  {
+    "Id": "e50d5272-75c3-40fe-87e8-603a1d8a4546",
+    "Title": "Test Asset 2 to Playlist 10",
+    "Description": "",
+    "Url": "fhxfrgthxf",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "MediaId": "",
+    "Source": "SOC",
+    "StatusTag": ""
   }
 ]

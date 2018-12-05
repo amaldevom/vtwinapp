@@ -2167,5 +2167,24 @@
       "c530931a-7104-417b-9ddd-d66ba4b1df5d",
       "64d82811-5582-432c-82de-e44ccfd266a3"
     ]
+  },
+  {
+    "Id": "356c17c2-10bb-4248-ae30-9f91d4fda7fc",
+    "Title": "Test Playlist 10",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "",
+    "Assets": [
+      "d2d78569-ee80-4fc0-a02d-bbb5775f35ea",
+      "e50d5272-75c3-40fe-87e8-603a1d8a4546"
+    ]
   }
 ]
