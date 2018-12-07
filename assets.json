@@ -1,6 +1,6 @@
 [
   {
-    "Id": "94b00f50-5896-479c-b0c5-ff74603b35a3", 
+    "Id": "94b00f50-5896-479c-b0c5-ff74603b35a3",
     "Title": "Create a worksheet",
     "Description": "",
     "Url": "https://support.office.com/en-us/client/94b00f50-5896-479c-b0c5-ff74603b35a3?embed=true&ns=trainingservices&version=1",
@@ -6811,22 +6811,6 @@
     "Category": "Scenarios",
     "SubCategory": "Modern Workplace",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "MediaId": "",
-    "Source": "SOC",
-    "StatusTag": ""
-  },
-  {
-    "Id": "800f1ff3-9ad1-4d0c-8148-4a9978e6356d",
-    "Title": "New asset",
-    "Description": "",
-    "Url": "http://microsoft.com",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "OneDrive for Business",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "First Days",
-    "CatId": "cb29cc0c-5ed3-4d3d-93c2-9b70081e5840",
     "MediaId": "",
     "Source": "SOC",
     "StatusTag": ""

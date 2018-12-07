@@ -2083,7 +2083,7 @@
   },
   {
     "Id": "09e9840a-8166-411a-ae18-8facbe58a9ef",
-    "Title": "sererere1",
+    "Title": "sererere2",
     "Image": "",
     "Level": "Beginner",
     "Audience": "Admin",
@@ -2129,24 +2129,6 @@
     "StatusTag": "",
     "Assets": [
       "04ddd18c-289b-4238-9434-bef6a43f5350"
-    ]
-  },
-  {
-    "Id": "af9ce5fb-3242-4a5e-966c-9354369b2736",
-    "Title": "New playlist",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "OneDrive for Business",
-    "Subject": null,
-    "Category": "Scenarios",
-    "SubCategory": "First Days",
-    "Source": "SOC",
-    "CatId": "cb29cc0c-5ed3-4d3d-93c2-9b70081e5840",
-    "Description": "",
-    "StatusTag": "",
-    "Assets": [
-      "800f1ff3-9ad1-4d0c-8148-4a9978e6356d"
     ]
   },
   {
