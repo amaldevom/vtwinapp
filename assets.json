@@ -6816,6 +6816,22 @@
     "StatusTag": ""
   },
   {
+    "Id": "800f1ff3-9ad1-4d0c-8148-4a9978e6356d",
+    "Title": "New asset",
+    "Description": "",
+    "Url": "http://microsoft.com",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "OneDrive for Business",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "First Days",
+    "CatId": "cb29cc0c-5ed3-4d3d-93c2-9b70081e5840",
+    "MediaId": "",
+    "Source": "SOC",
+    "StatusTag": ""
+  },
+  {
     "Id": "d2d78569-ee80-4fc0-a02d-bbb5775f35ea",
     "Title": "Test Asset 1 to Playlist 10",
     "Description": "",

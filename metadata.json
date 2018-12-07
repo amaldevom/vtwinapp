@@ -124,11 +124,6 @@
         "Test Subject 2",
         "Test subject 3"
       ]
-    },
-    {
-      "Name": "Test Tech",
-      "Image": "images/technologies/connect_your_organization_with_yammer.png",
-      "Subjects": []
     }
   ],
   "Categories": [
