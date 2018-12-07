@@ -1,7 +1,7 @@
 [
   {
     "Id": "a8cbac83-f7e8-45ff-a4a6-6b04f31a5745",
-    "Title": "Excel Quick start - updated",
+    "Title": "Excel Quick start",
     "Image": "images/playlists/excel_quick_start.png",
     "Level": "Beginner",
     "Audience": "End User",
@@ -11,21 +11,20 @@
     "SubCategory": "Excel",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
-      "0cf0055d-49f8-464e-9dfa-8f582b32453b",
-      "a8af741e-00f2-44c0-a94b-38abd51af01f",
-      "11a632c1-197e-454f-a515-374a4aa2b3dd",
-      "64b51431-c51a-45db-8ddd-d58b9b101c42",
       "94b00f50-5896-479c-b0c5-ff74603b35a3",
-      "2481dfd1-52fd-4b43-8bd9-6a848715336e"
+      "0cf0055d-49f8-464e-9dfa-8f582b32453b",
+      "11a632c1-197e-454f-a515-374a4aa2b3dd",
+      "a8af741e-00f2-44c0-a94b-38abd51af01f",
+      "64b51431-c51a-45db-8ddd-d58b9b101c42"
     ]
   },
   {
     "Id": "842fb550-07cb-42d1-9a9f-c55789efed57",
     "Title": "Welcome to Excel",
-    "Image": "welcome_to_excel.png",
+    "Image": "images/playlists/welcome_to_excel.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Excel",
@@ -34,21 +33,21 @@
     "SubCategory": "Excel",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
-      "bf3e41cf-24b2-4528-8fd6-eac4d8b9185c",
-      "82e9eab2-2e4e-463a-baa5-669b6c8ac543",
-      "e477a114-bb3f-4cbe-8e9a-57456c35ac8b",
       "842fb550-07cb-42d1-9a9f-c55789efed57",
+      "82e9eab2-2e4e-463a-baa5-669b6c8ac543",
       "861d97cb-3b33-4978-92e4-9446dc19b8da",
-      "48580e26-5b6d-48d3-afb5-317e18006dcb"
+      "48580e26-5b6d-48d3-afb5-317e18006dcb",
+      "e477a114-bb3f-4cbe-8e9a-57456c35ac8b",
+      "bf3e41cf-24b2-4528-8fd6-eac4d8b9185c"
     ]
   },
   {
     "Id": "7450f58a-517f-48ae-bace-248346e52275",
     "Title": "Rows & columns",
-    "Image": "rows_and_columns.png",
+    "Image": "images/playlists/rows_and_columns.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Excel",
@@ -57,21 +56,21 @@
     "SubCategory": "Excel",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
+      "7450f58a-517f-48ae-bace-248346e52275",
       "2d73d527-2725-4bed-b199-9a981362b5f9",
       "94708bae-df5c-4c3b-888c-621cf5d4bc94",
-      "0edb925e-2af7-47fb-895a-28a07d5b73d4",
       "95146525-ce4f-4ff6-a118-c0724deb1a98",
-      "7450f58a-517f-48ae-bace-248346e52275",
+      "0edb925e-2af7-47fb-895a-28a07d5b73d4",
       "217a1077-e1f1-4334-b509-ec63eee68572"
     ]
   },
   {
     "Id": "59b01879-ea2a-4f76-b2e4-e437fc45c61d",
     "Title": "Cells",
-    "Image": "cells.png",
+    "Image": "images/playlists/cells.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Excel",
@@ -80,7 +79,7 @@
     "SubCategory": "Excel",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "59b01879-ea2a-4f76-b2e4-e437fc45c61d",
@@ -95,7 +94,7 @@
   {
     "Id": "e6656c9b-a36a-4143-8fe4-5b6de0d9486b",
     "Title": "Formatting",
-    "Image": "formatting.png",
+    "Image": "images/playlists/formatting.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Excel",
@@ -104,7 +103,7 @@
     "SubCategory": "Excel",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "e6656c9b-a36a-4143-8fe4-5b6de0d9486b",
@@ -118,7 +117,7 @@
   {
     "Id": "9baa4835-b7d5-4e7e-8bea-0a53a1b91229",
     "Title": "Formulas & functions",
-    "Image": "formulas_and_functions.png",
+    "Image": "images/playlists/formulas_and_functions.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Excel",
@@ -127,7 +126,7 @@
     "SubCategory": "Excel",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "23936c25-8fde-4ec3-a868-a8add99f884d",
@@ -146,7 +145,7 @@
   {
     "Id": "94333445-037d-4222-aa99-a84b1f6125f0",
     "Title": "Tables",
-    "Image": "tables.png",
+    "Image": "images/playlists/tables.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Excel",
@@ -155,7 +154,7 @@
     "SubCategory": "Excel",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "bf0ce08b-d012-42ec-8ecf-a2259c9faf3f",
@@ -168,7 +167,7 @@
   {
     "Id": "50f79020-4453-479a-a7db-301f8863a5a3",
     "Title": "Charts",
-    "Image": "charts.png",
+    "Image": "images/playlists/charts.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Excel",
@@ -177,7 +176,7 @@
     "SubCategory": "Excel",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "231c42d2-5e58-40e1-99f0-cbe618cfee1d",
@@ -192,7 +191,7 @@
   {
     "Id": "6988bd71-e905-4699-a25c-ba148d6e5bad",
     "Title": "PivotTables",
-    "Image": "pivottables.png",
+    "Image": "images/playlists/pivottables.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Excel",
@@ -201,7 +200,7 @@
     "SubCategory": "Excel",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "74ce8afc-2446-4816-80ee-20ca7fb71793",
@@ -214,7 +213,7 @@
   {
     "Id": "3ee48085-019d-4256-9ad5-c2d03c82238c",
     "Title": "Share and co-author",
-    "Image": "excel_share_and_co-author.png",
+    "Image": "images/playlists/excel_share_and_co-author.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Excel",
@@ -223,7 +222,7 @@
     "SubCategory": "Excel",
     "Source": "Microsoft",
     "CatId": "85c785c2-c873-4483-9728-64a367fee3f1",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "5223233d-ee42-4331-bb63-6495a5039cc0",
@@ -234,7 +233,7 @@
   {
     "Id": "d3acd5c2-0488-4104-935a-61fda884bc49",
     "Title": "Teams Quick start",
-    "Image": "teams_quick_start.png",
+    "Image": "images/playlists/teams_quick_start.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Microsoft Teams",
@@ -243,7 +242,7 @@
     "SubCategory": "Microsoft Teams ",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "422bf3aa-9ae8-46f1-83a2-e65720e1a34d",
@@ -256,7 +255,7 @@
   {
     "Id": "bc9d8a0a-58f1-42cc-bdcf-9ee10b73ba24",
     "Title": "Intro to Microsoft Teams",
-    "Image": "intro_to_microsoft_teams.png",
+    "Image": "images/playlists/intro_to_microsoft_teams.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Microsoft Teams",
@@ -265,7 +264,7 @@
     "SubCategory": "Microsoft Teams ",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "b98d533f-118e-4bae-bf44-3df2470c2b12"
@@ -274,7 +273,7 @@
   {
     "Id": "b6b28572-87d3-4c71-a565-8d4a8e18d406",
     "Title": "Set up and customize your team",
-    "Image": "set_up_and_customize_your_team.png",
+    "Image": "images/playlists/set_up_and_customize_your_team.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Microsoft Teams",
@@ -283,7 +282,7 @@
     "SubCategory": "Microsoft Teams ",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "702a2977-e662-4038-bef5-bdf8ee47b17b",
@@ -293,7 +292,7 @@
   {
     "Id": "d4f4cae2-ce9a-483a-a786-93974e40b482",
     "Title": "Collaborate in teams and channels",
-    "Image": "collaborate_in_teams_and_channels.png",
+    "Image": "images/playlists/collaborate_in_teams_and_channels.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Microsoft Teams",
@@ -302,7 +301,7 @@
     "SubCategory": "Microsoft Teams ",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "c3d63c10-77d5-4204-a566-53ddcf723b46",
@@ -312,7 +311,7 @@
   {
     "Id": "2346ff06-6646-4084-845d-2ee5971f3634",
     "Title": "Start chats, calls, and meetings",
-    "Image": "start_chats_calls_and_meetings.png",
+    "Image": "images/playlists/start_chats_calls_and_meetings.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Microsoft Teams",
@@ -321,7 +320,7 @@
     "SubCategory": "Microsoft Teams ",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "a864b052-5e4b-4ccf-b046-2e26f40e21b5",
@@ -332,7 +331,7 @@
   {
     "Id": "4374d7da-95a5-4e13-a14b-2e43e1277d53",
     "Title": "Explore apps and tools",
-    "Image": "explore_apps_and_tools.png",
+    "Image": "images/playlists/explore_apps_and_tools.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Microsoft Teams",
@@ -341,7 +340,7 @@
     "SubCategory": "Microsoft Teams ",
     "Source": "Microsoft",
     "CatId": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "7350a03e-017a-4a00-a6ae-1c9fe8c497b3",
@@ -351,7 +350,7 @@
   {
     "Id": "31fe13c5-ec7d-4a3c-98db-89292b0c0824",
     "Title": "Create a chat-based workspace with Teams",
-    "Image": "provide_a_chat-based_workspace_with_teams.png",
+    "Image": "images/playlists/provide_a_chat-based_workspace_with_teams.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Microsoft Teams",
@@ -360,7 +359,7 @@
     "SubCategory": "Collaboration",
     "Source": "Microsoft",
     "CatId": "5d1a3e2d-9ebd-43a6-870d-d3fcdb5eed63",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "062f6252-5feb-4b80-a197-d9dd383aa31c",
@@ -375,7 +374,7 @@
   {
     "Id": "261009d0-8b5c-4302-bb0f-c993e1ebb51c",
     "Title": "Office 365 Quick Start",
-    "Image": "office_365_quick_start.png",
+    "Image": "images/playlists/office_365_quick_start.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -384,7 +383,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "56e60c2b-1929-4a04-bd9b-ff5b844364f3",
@@ -397,7 +396,7 @@
   {
     "Id": "8f026372-069d-4449-a116-938bf5aae7ea",
     "Title": "Intro to Office",
-    "Image": "intro_to_office.png",
+    "Image": "images/playlists/intro_to_office.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -406,7 +405,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "41684255-24dc-4078-92c2-9a05f6684f63",
@@ -417,7 +416,7 @@
   {
     "Id": "71b756be-b810-483e-aef1-282cefa9d518",
     "Title": "What is Office 365?",
-    "Image": "what_is_office_365.png",
+    "Image": "images/playlists/what_is_office_365.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -426,7 +425,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "847caf12-2589-452c-8aca-1c009797678b",
@@ -439,7 +438,7 @@
   {
     "Id": "f7fc4bc7-12f5-44bc-9bd4-c122e891061d",
     "Title": "Store online and collaborate",
-    "Image": "store_online_and_collaborate.png",
+    "Image": "images/playlists/store_online_and_collaborate.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -448,7 +447,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "146dd625-a740-4a53-96e4-a02c21d9de3e",
@@ -459,7 +458,7 @@
   {
     "Id": "fa7efdbf-ddd5-46b4-86c0-4d75b3893c85",
     "Title": "Distribute and protect",
-    "Image": "distribute_and_protect.png",
+    "Image": "images/playlists/distribute_and_protect.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -468,7 +467,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "bd6cee81-895f-41ca-b940-5e4ad85f18e1",
@@ -482,7 +481,7 @@
   {
     "Id": "ffdf1665-6516-4d78-b9d3-39985b60c06b",
     "Title": "View Office files",
-    "Image": "view_office_files.png",
+    "Image": "images/playlists/view_office_files.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -491,7 +490,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "8524b1c9-2286-431b-946b-1e684d3ee862",
@@ -502,7 +501,7 @@
   {
     "Id": "f4bbc974-3e87-4e2b-a4c8-7cb1d3c35fa3",
     "Title": "Create Office files",
-    "Image": "create_office_files.png",
+    "Image": "images/playlists/create_office_files.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -511,7 +510,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "5786b4fc-9265-4490-b4b7-3324579ea260",
@@ -525,7 +524,7 @@
   {
     "Id": "ed32ab75-e9b5-4056-a098-17b31f7830e1",
     "Title": "Design files",
-    "Image": "design_files.png",
+    "Image": "images/playlists/design_files.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -534,7 +533,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "294aa1e1-b4a5-4e28-aa7e-3bf3e46a7ce5",
@@ -546,7 +545,7 @@
   {
     "Id": "861f0286-c3b5-4a76-9b7e-77c1bf39572d",
     "Title": "Add and edit text",
-    "Image": "add_and_edit_text.png",
+    "Image": "images/playlists/add_and_edit_text.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -555,7 +554,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "1c696bda-5ea8-435c-9548-f5c59b9e1977",
@@ -570,7 +569,7 @@
   {
     "Id": "477ad890-043c-4d3c-982e-40c540f10009",
     "Title": "Format text",
-    "Image": "office_365_format_text.png",
+    "Image": "images/playlists/office_365_format_text.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -579,7 +578,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "8a956e59-da12-4df7-9695-64f2f94fa1f2",
@@ -592,7 +591,7 @@
   {
     "Id": "a118d65c-65c6-46ae-8a95-e2e3a14ab578",
     "Title": "Add and format tables and charts",
-    "Image": "add_and_format_tabels_and_charts.png",
+    "Image": "images/playlists/add_and_format_tabels_and_charts.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -601,7 +600,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "29a1e938-a78e-4205-bdf7-c418ee002da6",
@@ -619,7 +618,7 @@
   {
     "Id": "18addd5b-bbdc-4d5a-ad3d-20bdcb01183b",
     "Title": "Add and format pictures",
-    "Image": "add_and_format_pictures.png",
+    "Image": "images/playlists/add_and_format_pictures.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -628,7 +627,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "a0622cb4-4cb1-49a3-8070-fa52739519fa",
@@ -649,7 +648,7 @@
   {
     "Id": "03221f2a-d29f-4f5f-af45-2a3cd00ed178",
     "Title": "Add and format shapes",
-    "Image": "add_and_format_shapes.png",
+    "Image": "images/playlists/add_and_format_shapes.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -658,7 +657,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "16190802-1be2-4e09-a809-d4edffa37a3f",
@@ -668,7 +667,7 @@
   {
     "Id": "65c84168-f7e3-4af6-b9bd-66cd28985021",
     "Title": "Create WordArt and SmartArt",
-    "Image": "create_wordart_and_smartart.png",
+    "Image": "images/playlists/create_wordart_and_smartart.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -677,7 +676,7 @@
     "SubCategory": "Office 365 ",
     "Source": "Microsoft",
     "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "a039b302-4e01-4683-8ec8-9ec5ee0d6e1e",
@@ -688,7 +687,7 @@
   {
     "Id": "fe736497-1a7c-4397-9963-17aab7e64557",
     "Title": "Create impactful content together",
-    "Image": "create_impactful_content_together.png",
+    "Image": "images/playlists/create_impactful_content_together.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -697,7 +696,7 @@
     "SubCategory": "Collaboration",
     "Source": "Microsoft",
     "CatId": "5d1a3e2d-9ebd-43a6-870d-d3fcdb5eed63",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "ba05d4f5-a174-4879-b1a1-0c6f77c1396b",
@@ -712,7 +711,7 @@
   {
     "Id": "959166d8-1cb7-4315-af20-541598ebecaa",
     "Title": "Six Simple Steps - Welcome to Office 365",
-    "Image": "six_simple_steps_-_welcome_to_office_365.png",
+    "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Office 365",
@@ -721,7 +720,7 @@
     "SubCategory": "First Days",
     "Source": "Microsoft",
     "CatId": "cb29cc0c-5ed3-4d3d-93c2-9b70081e5840",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "365-378767af-7ac3-4d68-9d0f-709b6948a76b",
@@ -736,7 +735,7 @@
   {
     "Id": "c9ecc2e9-bc17-496a-8b0b-9242b6bb3eaf",
     "Title": "OneDrive QuickStart",
-    "Image": "onedrive_quick_start.png",
+    "Image": "images/playlists/onedrive_quick_start.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "OneDrive for Business",
@@ -745,20 +744,20 @@
     "SubCategory": "OneDrive ",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
-      "8ce30c76-e27b-4e55-9050-082393954213",
+      "a1397e56-61ec-4ed2-9dac-727bf8ac3357",
+      "94c8a731-c774-468e-97a1-5f038bdf330d",
       "586df57b-fdae-439c-ae5b-71cbe5bb0d4c",
       "c45e3f90-14af-4cfa-97f2-137f74d4304e",
-      "a1397e56-61ec-4ed2-9dac-727bf8ac3357",
-      "94c8a731-c774-468e-97a1-5f038bdf330d"
+      "8ce30c76-e27b-4e55-9050-082393954213"
     ]
   },
   {
     "Id": "d6021ad3-8709-4c7f-bd74-58517dfc902e",
     "Title": "Intro to OneDrive (work or school)",
-    "Image": "intro_to_onedrive_work_or_school.png",
+    "Image": "images/playlists/intro_to_onedrive_work_or_school.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "OneDrive for Business",
@@ -767,20 +766,20 @@
     "SubCategory": "OneDrive ",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "10f5c3fd-b0f6-40e2-9059-04735ffe01b7",
       "b30da4eb-ddd2-44b6-943b-e6fbfc6b8dde",
-      "03bb3e62-d16f-4658-a632-ed30121560ef",
       "110ca7b0-ae3d-4e51-a14c-9d583e2d630c",
+      "03bb3e62-d16f-4658-a632-ed30121560ef",
       "d26c1b0d-8047-42bf-9104-f6e9a3576e62"
     ]
   },
   {
     "Id": "3c24a6b8-a3d7-4133-ba59-08d705fe8160",
     "Title": "Manage your files",
-    "Image": "manage_your_files.png",
+    "Image": "images/playlists/manage_your_files.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "OneDrive for Business",
@@ -789,7 +788,7 @@
     "SubCategory": "OneDrive ",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "5bd927ad-d186-495c-93e8-7ca116fe7b83",
@@ -800,7 +799,7 @@
   {
     "Id": "2ab5e51a-67b9-44af-9ca6-de681329f813",
     "Title": "Save and share files with OneDrive",
-    "Image": "save_and_share_files_with_onedrive.png",
+    "Image": "images/playlists/save_and_share_files_with_onedrive.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "OneDrive for Business",
@@ -809,7 +808,7 @@
     "SubCategory": "Collaboration",
     "Source": "Microsoft",
     "CatId": "5d1a3e2d-9ebd-43a6-870d-d3fcdb5eed63",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "ea9e13b0-d413-4b4e-894d-177d1aee0e4f",
@@ -826,7 +825,7 @@
   {
     "Id": "f007841f-fde2-463c-8043-035084c00ba5",
     "Title": "Share and Sync",
-    "Image": "onedrive_share_and_sync.png",
+    "Image": "images/playlists/onedrive_share_and_sync.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "OneDrive for Business",
@@ -835,7 +834,7 @@
     "SubCategory": "OneDrive ",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "72f26d6c-bf9e-432c-8b96-e3c2437f5b65",
@@ -846,7 +845,7 @@
   {
     "Id": "a324d70a-4727-43e3-b78a-be93092d3dd0",
     "Title": "OneNote Quick Start",
-    "Image": "onenote_quick_start.png",
+    "Image": "images/playlists/onenote_quick_start.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "OneNote",
@@ -855,7 +854,7 @@
     "SubCategory": "OneNote",
     "Source": "Microsoft",
     "CatId": "6b41ec6b-db5f-4e1b-9eb7-6330e2151b83",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "6be33cf9-f7c3-4421-9d74-469a259952d3",
@@ -867,7 +866,7 @@
   {
     "Id": "55d81409-752a-4bd8-8c2b-cfc937359358",
     "Title": "Intro to OneNote",
-    "Image": "intro_to_onenote.png",
+    "Image": "images/playlists/intro_to_onenote.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "OneNote",
@@ -876,7 +875,7 @@
     "SubCategory": "OneDrive ",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "1b7c6171-61c6-4157-bad5-8480ae8f54a1",
@@ -886,7 +885,7 @@
   {
     "Id": "b63ab88a-2478-44a0-80a9-661849142f29",
     "Title": "Take notes",
-    "Image": "take_notes.png",
+    "Image": "images/playlists/take_notes.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "OneNote",
@@ -895,7 +894,7 @@
     "SubCategory": "OneDrive ",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "8ee7e122-c284-4864-a683-dfc407dbef10",
@@ -906,7 +905,7 @@
   {
     "Id": "8c0e0a94-ac56-4ed8-a385-caea31145761",
     "Title": "Format notes",
-    "Image": "format_notes.png",
+    "Image": "images/playlists/format_notes.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "OneNote",
@@ -915,7 +914,7 @@
     "SubCategory": "OneDrive ",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "918472c6-10d8-46f5-a2f1-fed68ca17e39",
@@ -926,7 +925,7 @@
   {
     "Id": "17a6d04a-e893-4b67-932f-529f70868150",
     "Title": "Draw and sketch",
-    "Image": "draw_and_sketch.png",
+    "Image": "images/playlists/draw_and_sketch.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "OneNote",
@@ -935,7 +934,7 @@
     "SubCategory": "OneDrive ",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "62e5c64c-5903-4622-a014-e1228c298f19",
@@ -945,7 +944,7 @@
   {
     "Id": "352e7758-5888-40c5-b765-edc83d7c64b3",
     "Title": "Stay organized",
-    "Image": "stay_organized.png",
+    "Image": "images/playlists/stay_organized.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "OneNote",
@@ -954,7 +953,7 @@
     "SubCategory": "OneDrive ",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "e10883b2-09a5-49de-8f9b-71605a100504",
@@ -964,7 +963,7 @@
   {
     "Id": "30190ee7-5d18-4c8c-9104-42b06388bee7",
     "Title": "Share and sync",
-    "Image": "share_and_sync.png",
+    "Image": "images/playlists/share_and_sync.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "OneNote",
@@ -973,7 +972,7 @@
     "SubCategory": "OneDrive ",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "8264e361-d7a6-4f82-a45b-b9c618a3c5ce",
@@ -983,7 +982,7 @@
   {
     "Id": "54d20fd4-0c72-404a-b0d8-93e64fcc0e36",
     "Title": "OneNote on mobile devices",
-    "Image": "onenote_on_mobile_devices.png",
+    "Image": "images/playlists/onenote_on_mobile_devices.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "OneNote",
@@ -992,7 +991,7 @@
     "SubCategory": "OneDrive ",
     "Source": "Microsoft",
     "CatId": "4ee4d22a-7d53-48bb-9a14-adf34d01cd75",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "32040c38-ed0a-4d9d-b2e5-c561ef751a4c",
@@ -1003,7 +1002,7 @@
   {
     "Id": "e66fa8f3-ec7e-47f9-9d79-4d334f157563",
     "Title": "Outlook 2016 Quick Start",
-    "Image": "outlook_quick_start.png",
+    "Image": "images/playlists/outlook_quick_start.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Outlook",
@@ -1012,7 +1011,7 @@
     "SubCategory": "Outlook",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "e9da47c4-9b89-4b49-b945-a204aeea6726",
@@ -1025,7 +1024,7 @@
   {
     "Id": "79fe1eb2-571e-4cbe-98b9-913692ddd387",
     "Title": "Set up and customize",
-    "Image": "set_up_and_customize.png",
+    "Image": "images/playlists/set_up_and_customize.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Outlook",
@@ -1034,7 +1033,7 @@
     "SubCategory": "Outlook",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "10f1fa35-f33a-4cb7-838c-a7f3e6228b20",
@@ -1045,7 +1044,7 @@
   {
     "Id": "44bb07ac-1c25-43fa-885d-4a0476734c9f",
     "Title": "Create and send email",
-    "Image": "create_and_send_email.png",
+    "Image": "images/playlists/create_and_send_email.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Outlook",
@@ -1054,7 +1053,7 @@
     "SubCategory": "Outlook",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "c6c261e3-d50a-43a6-816f-35fe1e53acc6",
@@ -1067,7 +1066,7 @@
   {
     "Id": "8d87d80d-b5df-45a9-9164-e03d74cca066",
     "Title": "Manage email",
-    "Image": "manage_email.png",
+    "Image": "images/playlists/manage_email.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Outlook",
@@ -1076,7 +1075,7 @@
     "SubCategory": "Outlook",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "cc0e480f-973e-4412-a27b-8a52108d6d51",
@@ -1088,7 +1087,7 @@
   {
     "Id": "ab55d6d4-c932-48a5-a062-a5e760fda581",
     "Title": "Organize your inbox",
-    "Image": "organize_your_inbox.png",
+    "Image": "images/playlists/organize_your_inbox.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Outlook",
@@ -1097,7 +1096,7 @@
     "SubCategory": "Outlook",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "a894348d-b308-4185-840f-aff63063d076",
@@ -1108,7 +1107,7 @@
   {
     "Id": "94a14949-5322-4bfb-b45a-f66e67286e98",
     "Title": "Contacts and tasks",
-    "Image": "contacts_and_tasks.png",
+    "Image": "images/playlists/contacts_and_tasks.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Outlook",
@@ -1117,7 +1116,7 @@
     "SubCategory": "Outlook",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "1ef8f35b-04be-4bd0-ac9c-6d6a146887ce",
@@ -1130,7 +1129,7 @@
   {
     "Id": "534d99cd-2b9b-4a9d-acde-c83fcfc082aa",
     "Title": "Calendar",
-    "Image": "calendar.png",
+    "Image": "images/playlists/calendar.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Outlook",
@@ -1139,7 +1138,7 @@
     "SubCategory": "Outlook",
     "Source": "Microsoft",
     "CatId": "46589138-0dde-4ea5-b9a1-313481a8eb06",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "6fb9225d-9f9d-456d-8c81-8437bfcd3ebf",
@@ -1154,7 +1153,7 @@
   {
     "Id": "df1a81f5-17a5-4a7a-b214-dfeb4f677afb",
     "Title": "PowerPoint Quick Start",
-    "Image": "powerpoint_quick_start.png",
+    "Image": "images/playlists/powerpoint_quick_start.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "PowerPoint",
@@ -1163,7 +1162,7 @@
     "SubCategory": "PowerPoint",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "2016-422250f8-5721-4cea-92cc-202fa7b89617",
@@ -1176,7 +1175,7 @@
   {
     "Id": "b7593732-a75a-4542-9d72-4932c505b92f",
     "Title": "Welcome to PowerPoint",
-    "Image": "welcome_to_powerpoint.png",
+    "Image": "images/playlists/welcome_to_powerpoint.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "PowerPoint",
@@ -1185,7 +1184,7 @@
     "SubCategory": "PowerPoint",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "5f9cc860-d199-4d85-ad1b-4b74018acf5b",
@@ -1197,7 +1196,7 @@
   {
     "Id": "4851d3e7-0790-4ccb-b943-cfa0558b4ef6",
     "Title": "Slides and layouts",
-    "Image": "slides_and_layouts.png",
+    "Image": "images/playlists/slides_and_layouts.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "PowerPoint",
@@ -1206,7 +1205,7 @@
     "SubCategory": "PowerPoint",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "8bf2b58d-df6c-4e5f-90e3-ade289a2d64d",
@@ -1223,7 +1222,7 @@
   {
     "Id": "9933fa88-bb9e-4dec-8124-abe44b89222c",
     "Title": "Text & tables",
-    "Image": "text_and_tables.png",
+    "Image": "images/playlists/text_and_tables.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "PowerPoint",
@@ -1232,7 +1231,7 @@
     "SubCategory": "PowerPoint",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "06f64160-9abf-46bb-80d1-9e94d47a0d36",
@@ -1247,7 +1246,7 @@
   {
     "Id": "8c91aac4-cb1b-4204-a53a-9aac2641f16a",
     "Title": "Pictures and graphics",
-    "Image": "pictures_and_graphics.png",
+    "Image": "images/playlists/pictures_and_graphics.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "PowerPoint",
@@ -1256,7 +1255,7 @@
     "SubCategory": "PowerPoint",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "7da68d81-eda5-441d-9948-883ba5fb95ae",
@@ -1272,7 +1271,7 @@
   {
     "Id": "e1144779-6751-4415-a1d4-24e0303ea6db",
     "Title": "Present slideshows",
-    "Image": "present_slideshows.png",
+    "Image": "images/playlists/present_slideshows.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "PowerPoint",
@@ -1281,7 +1280,7 @@
     "SubCategory": "PowerPoint",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "fe7638e4-76fb-4349-8d81-5eb6679f49d7",
@@ -1294,7 +1293,7 @@
   {
     "Id": "fe0408f3-0971-4415-a100-f58a5dc2a0b8",
     "Title": "Animation, video & audio",
-    "Image": "animation_video_and_audio.png",
+    "Image": "images/playlists/animation_video_and_audio.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "PowerPoint",
@@ -1303,7 +1302,7 @@
     "SubCategory": "PowerPoint",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "7db07067-4d78-40b5-bc87-5ff4f5ff6ff7",
@@ -1315,7 +1314,7 @@
   {
     "Id": "ee7fc2e1-a42d-452e-ab90-e8131b08a9b1",
     "Title": "Share and co-author",
-    "Image": "share_and_co-author.png",
+    "Image": "images/playlists/share_and_co-author.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "PowerPoint",
@@ -1324,7 +1323,7 @@
     "SubCategory": "PowerPoint",
     "Source": "Microsoft",
     "CatId": "f05d3e34-3299-4776-a505-86f94b794194",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "4d452495-f8c0-4b15-bac3-8015a8adbe0e",
@@ -1336,7 +1335,7 @@
   {
     "Id": "24216b89-7d0d-4263-b61e-2ecbda58f1df",
     "Title": "SharePoint Online Quick Start",
-    "Image": "sharepoint_online_quick_start.png",
+    "Image": "images/playlists/sharepoint_online_quick_start.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "SharePoint",
@@ -1345,7 +1344,7 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "324a89ec-e77b-4475-b64a-13a0c14c45ec",
@@ -1358,7 +1357,7 @@
   {
     "Id": "4d722e7d-6cb1-4399-998d-6f8645f63ffa",
     "Title": "Intro to SharePoint Online",
-    "Image": "intro_to_sharepoint_online.png",
+    "Image": "images/playlists/intro_to_sharepoint_online.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "SharePoint",
@@ -1367,7 +1366,7 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "c17b6824-cc22-478f-8757-497cc6b57121",
@@ -1378,7 +1377,7 @@
   {
     "Id": "d542016a-fdf9-4c8e-b4ea-eed1afc7df93",
     "Title": "Create sites, posts, and lists",
-    "Image": "create_sites_posts_and_lists.png",
+    "Image": "images/playlists/create_sites_posts_and_lists.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "SharePoint",
@@ -1387,7 +1386,7 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "551e190a-8fbe-47ae-a88a-798b443c46b1",
@@ -1399,7 +1398,7 @@
   {
     "Id": "6601f080-d86a-4d0c-9e60-150746bf8f96",
     "Title": "Share and Sync",
-    "Image": "sharepoint_online_share_and_sync.png",
+    "Image": "images/playlists/sharepoint_online_share_and_sync.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "SharePoint",
@@ -1408,7 +1407,7 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "4b3e25c7-e464-41dc-8486-cef28d7130e0",
@@ -1420,16 +1419,16 @@
   {
     "Id": "a40ae370-557f-4a5b-9b17-3d14bbb6893e",
     "Title": "Share sites and content with SharePoint",
-    "Image": "share_sites_and_content_with_sharepoint.png",
+    "Image": "images/playlists/share_sites_and_content_with_sharepoint.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "SharePoint",
-    "Subject": "Su",
+    "Subject": "",
     "Category": "Scenarios",
     "SubCategory": "Collaboration",
     "Source": "Microsoft",
     "CatId": "5d1a3e2d-9ebd-43a6-870d-d3fcdb5eed63",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "de53b8f0-f5ab-4fb5-aa46-ba6279ded622",
@@ -1443,7 +1442,7 @@
   {
     "Id": "a958fdc7-d697-43f1-b3b3-a3f467ff94cd",
     "Title": "Word 2016 Quick Start ",
-    "Image": "word_quick_start.png",
+    "Image": "images/playlists/word_quick_start.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Word",
@@ -1452,7 +1451,7 @@
     "SubCategory": "Word",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "aafc163a-3a06-45a9-b451-cb7250dcbaa1",
@@ -1465,7 +1464,7 @@
   {
     "Id": "5250bdca-1dac-4242-9ec9-3badda06b5f8",
     "Title": "Welcome to Word",
-    "Image": "welcome_to_word.png",
+    "Image": "images/playlists/welcome_to_word.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Word",
@@ -1474,7 +1473,7 @@
     "SubCategory": "Word",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "aee9c7ff-f9c5-415f-80dc-103ad5e344d7",
@@ -1484,7 +1483,7 @@
   {
     "Id": "f74d0622-642d-4f98-906f-2960a2c05d31",
     "Title": "Write and edit",
-    "Image": "write_and_edit.png",
+    "Image": "images/playlists/write_and_edit.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Word",
@@ -1493,7 +1492,7 @@
     "SubCategory": "Word",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "c6728c16-469e-43cd-afe4-7708c6c779b7",
@@ -1506,7 +1505,7 @@
   {
     "Id": "2bb5f49a-da1c-49e8-b7e8-04cfc6936f25",
     "Title": "Lay out pages",
-    "Image": "layout_pages.png",
+    "Image": "images/playlists/layout_pages.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Word",
@@ -1515,7 +1514,7 @@
     "SubCategory": "Word",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "da21a474-99d8-4e54-b12d-a8a14ea7ce02",
@@ -1531,7 +1530,7 @@
   {
     "Id": "67cb976e-6129-4bed-a769-3691cb7562d8",
     "Title": "Insert tables, pictures, and watermarks",
-    "Image": "insert_tables_pictures_and_watermarks.png",
+    "Image": "images/playlists/insert_tables_pictures_and_watermarks.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Word",
@@ -1540,7 +1539,7 @@
     "SubCategory": "Word",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "a138f745-73ef-4879-b99a-2f3d38be612a",
@@ -1556,7 +1555,7 @@
   {
     "Id": "cef03778-baf8-4365-8b23-413c5edd6b66",
     "Title": "Save and print",
-    "Image": "save_and_print.png",
+    "Image": "images/playlists/save_and_print.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Word",
@@ -1565,7 +1564,7 @@
     "SubCategory": "Word",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "b7f55d8c-d714-4892-8fde-853a82419027",
@@ -1580,7 +1579,7 @@
   {
     "Id": "fb5155d7-a802-4e95-b1ce-f8baea8cb44b",
     "Title": "Share and co-author",
-    "Image": "share_and_coauthor.png",
+    "Image": "images/playlists/share_and_coauthor.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Word",
@@ -1589,7 +1588,7 @@
     "SubCategory": "Word",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "d39f3cd8-0aa0-412f-9a35-1abba926d354",
@@ -1603,7 +1602,7 @@
   {
     "Id": "26aa6ac6-24aa-43c5-ad1c-d93359ab3674",
     "Title": "Use Word for school",
-    "Image": "use_word_for_school.png",
+    "Image": "images/playlists/use_word_for_school.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Word",
@@ -1612,7 +1611,7 @@
     "SubCategory": "Word",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "d386a0d2-d007-425b-9f4a-5c8f8c69178d",
@@ -1625,7 +1624,7 @@
   {
     "Id": "4210a245-a2ae-4b6a-88a7-83ebef901aa7",
     "Title": "Improve accessibility and ease of use",
-    "Image": "improve_accessibility_and_ease_of_use.png",
+    "Image": "images/playlists/improve_accessibility_and_ease_of_use.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Word",
@@ -1634,7 +1633,7 @@
     "SubCategory": "Word",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "303eb71a-6bd8-474c-ba06-923e93347224",
@@ -1647,7 +1646,7 @@
   {
     "Id": "1bb00cc3-21a5-432d-b535-4b970feb332c",
     "Title": "Connect your organization with Yammer",
-    "Image": "connect_your_organization_with_yammer.png",
+    "Image": "images/playlists/connect_your_organization_with_yammer.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Yammer",
@@ -1656,7 +1655,7 @@
     "SubCategory": "Collaboration",
     "Source": "Microsoft",
     "CatId": "5d1a3e2d-9ebd-43a6-870d-d3fcdb5eed63",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "ffc1d9c2-7513-4e64-a7c6-d901ed9c0cfe",
@@ -1671,7 +1670,7 @@
   {
     "Id": "575bed47-83d8-49cb-affa-51d9497ab93b",
     "Title": "Yammer Quick Start",
-    "Image": "yammer_quick_start.png",
+    "Image": "images/playlists/yammer_quick_start.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Yammer",
@@ -1680,7 +1679,7 @@
     "SubCategory": "Yammer",
     "Source": "Microsoft",
     "CatId": "e83da7d3-653c-4c01-a262-336e07b88aba",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "d863154a-4223-4ea2-8855-ccc971321b8e",
@@ -1693,7 +1692,7 @@
   {
     "Id": "19382980-771c-413e-a2af-626165fdabba",
     "Title": "Roll out a successful Yammer network",
-    "Image": "roll_out_a_successful_yammer_network.png",
+    "Image": "images/playlists/roll_out_a_successful_yammer_network.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Yammer",
@@ -1702,7 +1701,7 @@
     "SubCategory": "Yammer",
     "Source": "Microsoft",
     "CatId": "e83da7d3-653c-4c01-a262-336e07b88aba",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "1b0f3b3e-89ee-4b66-aac5-30def12f287c",
@@ -1720,7 +1719,7 @@
   {
     "Id": "02f5792f-4eed-4122-91ed-348560c3fac9",
     "Title": "Use Yammer every day",
-    "Image": "use_yammer_every_day.png",
+    "Image": "images/playlists/use_yammer_every_day.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Yammer",
@@ -1729,7 +1728,7 @@
     "SubCategory": "Yammer",
     "Source": "Microsoft",
     "CatId": "e83da7d3-653c-4c01-a262-336e07b88aba",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "47526868-b136-40cc-a80d-c870eadd9ba5",
@@ -1740,9 +1739,9 @@
       "52db606b-2f29-4a9a-8cbb-b43bf2a27d2e",
       "eb096f3b-ef81-49d8-9b44-9bec6fe50c3c",
       "e9f31b53-f1b1-407f-8cd6-6cda93fe23be",
+      "4ca4f40e-f9ee-4554-aa6d-e00687977875",
       "544eb5b9-c69a-4609-ac09-bb169b1098d0",
-      "b8e6c9cd-bbca-49b6-bb28-7ed313d52fb0",
-      "4ca4f40e-f9ee-4554-aa6d-e00687977875"
+      "b8e6c9cd-bbca-49b6-bb28-7ed313d52fb0"
     ]
   },
   {
@@ -1757,7 +1756,7 @@
     "SubCategory": "Modern Workplace",
     "Source": "Microsoft",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": [
       "aae42c96-cecb-47ab-b601-eddb8d1379bc",
@@ -1781,7 +1780,7 @@
     "SubCategory": "Modern Workplace",
     "Source": "Microsoft",
     "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": []
   },
@@ -1797,7 +1796,7 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": []
   },
@@ -1813,7 +1812,7 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": []
   },
@@ -1829,7 +1828,7 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": []
   },
@@ -1845,7 +1844,7 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": []
   },
@@ -1856,12 +1855,12 @@
     "Level": "Intermediate",
     "Audience": "Content Manager",
     "Technology": "SharePoint",
-    "Subject": "",
+    "Subject": "Site Creation",
     "Category": "Products",
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": []
   },
@@ -1877,7 +1876,7 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": []
   },
@@ -1893,7 +1892,7 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": []
   },
@@ -1909,7 +1908,7 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": []
   },
@@ -1925,11 +1924,9 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
-    "Assets": [
-      "a449a07a-2432-4ccf-9ed0-a3fbeabf83e2"
-    ]
+    "Assets": []
   },
   {
     "Id": "468df013-1b48-4a3a-848f-9c1cb6e01aa8",
@@ -1943,7 +1940,7 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": []
   },
@@ -1959,213 +1956,8 @@
     "SubCategory": "SharePoint",
     "Source": "Microsoft",
     "CatId": "e5e2ae74-20ff-4626-937d-df4ff3405f29",
-    "Description": "",
+    "Description": null,
     "StatusTag": "",
     "Assets": []
-  },
-  {
-    "Id": "c5f512a1-034f-4ff2-99c5-c5de8ec24bbd",
-    "Title": "Test Test",
-    "Image": "images/playlists/m9eHl9js5zC2_dAoZ1p2_0Q.jpg",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "OneNote",
-    "Subject": null,
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "Test Desc 1",
-    "StatusTag": "",
-    "Assets": []
-  },
-  {
-    "Id": "adafc80e-2874-459f-8859-71bcfacca156",
-    "Title": "Test Playlist 21",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": null,
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "",
-    "StatusTag": "Updated",
-    "Assets": []
-  },
-  {
-    "Id": "3012dc06-82de-42a9-9b97-4e3657ca42a1",
-    "Title": "Test Playlist 6",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "",
-    "StatusTag": "",
-    "Assets": [
-      "d540c1d0-52d7-4719-aad2-8f38bb5ac1a9",
-      "2841ef67-b285-4d3a-b809-1ad186f35f5c",
-      "7657b28d-da5e-46ea-b761-7123bcdccd12"
-    ]
-  },
-  {
-    "Id": "c283aa2e-9a2f-4f30-9202-c75e6b7afa6b",
-    "Title": "Test Playlist 6",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "",
-    "StatusTag": "",
-    "Assets": []
-  },
-  {
-    "Id": "ed32b9b2-9c8d-47d3-b86b-9e72024a448b",
-    "Title": "Test Playlist 7_6",
-    "Image": "images/playlists/create_impactful_content_together.png",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "",
-    "StatusTag": "",
-    "Assets": []
-  },
-  {
-    "Id": "b6c72ff2-104d-44ad-bc10-d1c2c7ea169c",
-    "Title": "mnb",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "dsdddsd",
-    "StatusTag": "",
-    "Assets": []
-  },
-  {
-    "Id": "4e9856d4-08f2-41c0-93b4-c33682f978ea",
-    "Title": "Added on 29 Nov",
-    "Image": "images/playlists/images (1).jpeg",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Office 365 Basics",
-    "Subject": "",
-    "Category": "Category Test 3",
-    "SubCategory": "Sub Cat Test 1",
-    "Source": "Microsoft",
-    "CatId": "bfde3f23-dc45-4746-a877-9aaecae59706",
-    "Description": "Added on 29th as description",
-    "StatusTag": "Retired",
-    "Assets": [
-      "ab5427d4-0edb-4332-b5ce-f42dfddf30c8"
-    ]
-  },
-  {
-    "Id": "09e9840a-8166-411a-ae18-8facbe58a9ef",
-    "Title": "sererere1",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "ereerererer",
-    "StatusTag": "",
-    "Assets": []
-  },
-  {
-    "Id": "431e602b-569a-41f2-b4bc-7cc12f203c3c",
-    "Title": "Sample from hjason",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "didgfdff",
-    "StatusTag": "",
-    "Assets": []
-  },
-  {
-    "Id": "068bdc07-f206-4744-a24d-78142b83b316",
-    "Title": "Playlist from my system",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "dfddfdf",
-    "StatusTag": "",
-    "Assets": [
-      "04ddd18c-289b-4238-9434-bef6a43f5350"
-    ]
-  },
-  {
-    "Id": "af9ce5fb-3242-4a5e-966c-9354369b2736",
-    "Title": "New playlist",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "OneDrive for Business",
-    "Subject": null,
-    "Category": "Scenarios",
-    "SubCategory": "First Days",
-    "Source": "SOC",
-    "CatId": "cb29cc0c-5ed3-4d3d-93c2-9b70081e5840",
-    "Description": "",
-    "StatusTag": "",
-    "Assets": [
-      "800f1ff3-9ad1-4d0c-8148-4a9978e6356d"
-    ]
-  },
-  {
-    "Id": "356c17c2-10bb-4248-ae30-9f91d4fda7fc",
-    "Title": "Test Playlist 10_6",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "",
-    "StatusTag": "",
-    "Assets": [
-      "d2d78569-ee80-4fc0-a02d-bbb5775f35ea",
-      "e50d5272-75c3-40fe-87e8-603a1d8a4546"
-    ]
   }
 ]

@@ -14,7 +14,7 @@
       ]
     },
     {
-      "Name": "Office 365 Basics",
+      "Name": "Office 365",
       "Image": "",
       "Subjects": []
     },
@@ -39,11 +39,6 @@
       "Subjects": []
     },
     {
-      "Name": "SharePoint Online",
-      "Image": "",
-      "Subjects": []
-    },
-    {
       "Name": "Word",
       "Image": "",
       "Subjects": []
@@ -61,30 +56,14 @@
     {
       "Name": "SharePoint",
       "Image": "",
-      "Subjects": []
-    },
-    {
-      "Name": "Access",
-      "Image": "",
-      "Subjects": []
-    },
-    {
-      "Name": "Project",
-      "Image": "",
-      "Subjects": []
+      "Subjects": [
+        "Site Planning",
+        "Site Creation",
+        "Site Branding and Customization"
+      ]
     },
     {
       "Name": "Planner",
-      "Image": "",
-      "Subjects": []
-    },
-    {
-      "Name": "Visio",
-      "Image": "",
-      "Subjects": []
-    },
-    {
-      "Name": "Publisher",
       "Image": "",
       "Subjects": []
     },
@@ -104,25 +83,16 @@
       "Subjects": []
     },
     {
-      "Name": "Test Tech 1 - updated",
+      "Name": "Windows 10",
       "Image": "",
-      "Subjects": [
-        "Test Subj 1",
-        "Test Subj 2",
-        "Test Subj 3",
-        "Test Subj 4",
-        "Subject2",
-        "Subject2 - updated",
-        "Subject2 - added"
-      ]
+      "Subjects": []
     },
     {
-      "Name": "Tech 1 - updated",
+      "Name": "M365",
       "Image": "",
       "Subjects": [
-        "Test subject",
-        "Test Subject 2",
-        "Test subject 3"
+        "Office 365",
+        "Windows 10"
       ]
     }
   ],
@@ -303,25 +273,8 @@
               "Security": "Visitors",
               "Image": "",
               "Type": "Subject",
-              "Technology": "SharePoint",
-              "SubCategories": [
-                {
-                  "Id": "566e8a27-f544-4cd2-b605-cc98c805a1ea",
-                  "Name": "Site Planning Sub 1",
-                  "Security": "Visitors",
-                  "Image": "",
-                  "Type": "Subject",
-                  "Technology": "SharePoint"
-                },
-                {
-                  "Id": "d22c7774-f910-4b13-9c3a-ecb9f547d65a",
-                  "Name": "Site Planning Sub 2",
-                  "Security": "Visitors",
-                  "Image": "",
-                  "Type": "Subject",
-                  "Technology": "SharePoint"
-                }
-              ]
+              "Technology": "",
+              "SubCategories": []
             },
             {
               "Id": "52a98781-2e3a-49d5-8ae4-0acd69c4e70c",
@@ -339,24 +292,6 @@
               "Image": "",
               "Type": "Subject",
               "Technology": "",
-              "SubCategories": []
-            },
-            {
-              "Id": "a9f7ed53-258c-4496-83c3-b7025fea4662",
-              "Name": "Site Test 1",
-              "Security": "Visitors",
-              "Image": "",
-              "Type": "Subject",
-              "Technology": "SharePoint",
-              "SubCategories": []
-            },
-            {
-              "Id": "6db2d253-ccd1-4fde-a9de-cfd77708f13e",
-              "Name": "Site Planning 2",
-              "Security": "Visitors",
-              "Image": "",
-              "Type": "Subject",
-              "Technology": "SharePoint",
               "SubCategories": []
             }
           ]
@@ -397,102 +332,8 @@
           "Type": "SubCategory",
           "Technology": "",
           "SubCategories": []
-        },
-        {
-          "Id": "ad8a9bdc-0459-4f28-b050-96ff52d94d3c",
-          "Name": "sub added 12_4",
-          "Security": "Visitors",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "",
-          "SubCategories": []
         }
       ]
-    },
-    {
-      "Id": "aae8bec8-f2b2-4fb9-ab05-2bbba449b62a",
-      "Name": "Category Test 2",
-      "Security": "Visitors",
-      "Image": "",
-      "Type": "Category",
-      "Technology": null,
-      "SubCategories": []
-    },
-    {
-      "Id": "3e5c1457-259f-4de3-8671-bbaa11632d0a",
-      "Name": "Category Test 3",
-      "Security": "Visitors",
-      "Image": "",
-      "Type": "Category",
-      "Technology": "PowerPoint",
-      "SubCategories": [
-        {
-          "Id": "bfde3f23-dc45-4746-a877-9aaecae59706",
-          "Name": "Sub Cat Test 1",
-          "Security": "Members",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "PowerPoint",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
-      "Id": "5ba0d816-3551-4c9a-ac2f-35c89ba1aee7",
-      "Name": "Category Test 1 - updated",
-      "Security": "Visitors",
-      "Image": "",
-      "Type": "Category",
-      "Technology": "PowerPoint",
-      "SubCategories": [
-        {
-          "Id": "0c92f811-3d0c-4df6-ae5d-8df6f44de138",
-          "Name": "subcate added",
-          "Security": "",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "PowerPoint",
-          "SubCategories": []
-        }
-      ]
-    },
-    {
-      "Id": "e823cb7e-b218-4087-a70f-280f70891a3d",
-      "Name": "Category Test 5",
-      "Security": "Visitors",
-      "Image": "",
-      "Type": "Category",
-      "Technology": "PowerPoint",
-      "SubCategories": [
-        {
-          "Id": "256acda6-4e0d-4a9d-b45a-5cc414a9ace2",
-          "Name": "Test Subcat 1 to Cat 5",
-          "Security": "Visitors",
-          "Image": "",
-          "Type": "SubCategory",
-          "Technology": "PowerPoint ",
-          "SubCategories": [
-            {
-              "Id": "8798b772-7be8-4e46-af73-1cbaed30c022",
-              "Name": "Test Subject 1 for Cat 5",
-              "Security": "",
-              "Image": "",
-              "Type": "Subject",
-              "Technology": "",
-              "SubCategories": []
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Id": "3bcf8b32-6129-49e2-8e7f-b91aac7c538c",
-      "Name": "Category Test 6",
-      "Security": "",
-      "Image": "",
-      "Type": "Category",
-      "Technology": "PowerPoint",
-      "SubCategories": []
     }
   ],
   "Audiences": [
@@ -509,7 +350,7 @@
       "Image": ""
     },
     {
-      "Name": "Champion/Trainer",
+      "Name": "Champions/Trainer",
       "Image": ""
     },
     {
@@ -543,22 +384,6 @@
     {
       "Name": "All",
       "Image": ""
-    },
-    {
-      "Name": "Test Role 3",
-      "Image": ""
-    },
-    {
-      "Name": "Test role 4",
-      "Image": ""
-    },
-    {
-      "Name": "Test Role 5",
-      "Image": ""
-    },
-    {
-      "Name": "Test Role 6",
-      "Image": ""
     }
   ],
   "Sources": [
@@ -566,9 +391,7 @@
     "FastTrack",
     "M365",
     "Microsoft",
-    "LinkedIn",
-    "Test Source 1",
-    "Test Source 2"
+    "LinkedIn"
   ],
   "Levels": [
     "Beginner",
@@ -579,6 +402,6 @@
     "New",
     "Updated",
     "Retired",
-    "BETA"
+    "Beta"
   ]
 }
