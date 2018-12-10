@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "ms-custom-learning",
+    "libraryId": "3e070a4f-5470-4aee-acdd-ec9710d56096",
+    "environment": "spo"
+  }
+}

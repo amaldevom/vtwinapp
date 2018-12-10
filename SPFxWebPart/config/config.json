@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "ms-custom-learning-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/msCustomLearning/MsCustomLearningWebPart.js",
+          "manifest": "./src/webparts/msCustomLearning/MsCustomLearningWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "MsCustomLearningWebPartStrings": "lib/webparts/msCustomLearning/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,124 @@
+.lgCard{
+  width: 230px;
+  border: 1px solid #C8C8C8;
+  box-sizing: border-box;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  min-height: 210px;
+  max-height: 210px;
+  position: relative;
+  .cardImage{
+    cursor: pointer;
+    min-height: 150px;
+    max-height: 150px;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url('../../assets/Playlist_BW.png');
+  }
+  .cardTitleCont{
+    font-weight: 400;
+    font-size: 1em;
+    margin: 0;
+    padding: 8px;
+    display: block;
+    background-color: #fff;
+    .cardTitle {
+      width: 180px;
+      overflow: hidden;
+      position: relative; 
+      line-height: 1.5em;
+      max-height: 3em;   
+      margin-right: -1em;
+      padding-right: 1em;
+      &:before{
+        content: '...';
+        position: absolute;
+        right: 0;
+        bottom: 0;
+      }
+      &:after{
+        content: '';
+        position: absolute;
+        right: 0;
+        width: 1em;
+        height: 1em;
+        margin-top: 0.2em;
+        background: white;
+      }
+      .cardLink {
+        overflow: hidden;
+        text-decoration: none;
+        color: #000000;
+      }
+    }
+    .cardIcon{
+      font-size: 1em;
+      cursor: pointer;
+      position: absolute;
+      color: #000000;
+      bottom: 5px;
+      right: 5px;
+    }
+  }
+}
+.smStackCard{
+  cursor: pointer;
+  padding: 10px;
+  border-bottom: 1px solid #CBCBCB;
+  border-top: 1px solid #FFFFFF;
+  border-left: 1px solid #FFFFFF;
+  border-right: 1px solid #FFFFFF;
+  white-space: normal;
+  height: 35px;
+  clear: left;
+  &.selected{
+    border: 1px solid #0067b8;
+  }
+  .cardTitleCont{
+    white-space: normal;
+    height: 35px;
+    position: relative;
+    .cardTitle{
+      font-size: .9em;
+      word-break: break-word;
+      width: 70%;
+      overflow: hidden;
+      position: relative; 
+      line-height: 1.4em;
+      max-height: 2.8em; 
+      margin-right: -1em;
+      padding-right: 1em;
+      &:before{
+        content: '...';
+        position: absolute;
+        right: 0;
+        bottom: 0;
+      }
+      &:after{
+        content: '';
+        position: absolute;
+        right: 0;
+        width: 1em;
+        height: 1em;
+        margin-top: 0.2em;
+        background: white;
+      }
+      .cardLink {
+        color: #000000;
+        overflow: hidden;
+        text-decoration: none;
+      }
+    }
+    .cardIcon{
+      font-size: .9em;
+      cursor: pointer;
+      position: absolute;
+      color: #000000;
+      bottom: 5px;
+      right: 0px;
+      &:nth-child(3){
+        right: 25px;
+      }  
+    }
+  }
+}

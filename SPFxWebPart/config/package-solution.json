@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "ms-custom-learning-client-side-solution",
+    "id": "3e070a4f-5470-4aee-acdd-ec9710d56096",
+    "version": "1.0.0.29",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/ms-custom-learning.sppkg"
+  }
+}
