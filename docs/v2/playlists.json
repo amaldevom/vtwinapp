@@ -1962,7 +1962,7 @@
   },
   {
     "Id": "5cbc455d-8c0b-417a-bcb2-a2bbba3213aa",
-    "Title": "Test Playlist 1",
+    "Title": "Test Playlist 1_2",
     "Image": "",
     "Level": "Beginner",
     "Audience": "Admin",
@@ -1980,7 +1980,7 @@
   },
   {
     "Id": "3e5ff707-31b6-4513-b9b9-9eecbbbc72d0",
-    "Title": "Test Playlist 2",
+    "Title": "Test Playlist 2_2",
     "Image": "images/playlists/check-small.png",
     "Level": "Beginner",
     "Audience": "Admin",
