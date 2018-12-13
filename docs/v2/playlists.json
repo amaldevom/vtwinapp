@@ -1977,5 +1977,21 @@
     "Assets": [
       "8e01cf0e-8703-4194-a05e-dbf846bfe764"
     ]
+  },
+  {
+    "Id": "3e5ff707-31b6-4513-b9b9-9eecbbbc72d0",
+    "Title": "Test Playlist 2",
+    "Image": "images/playlists/check-small.png",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "New",
+    "Assets": []
   }
 ]
