@@ -7390,5 +7390,21 @@
     "MediaId": "",
     "Source": "Microsoft",
     "StatusTag": ""
+  },
+  {
+    "Id": "8e01cf0e-8703-4194-a05e-dbf846bfe764",
+    "Title": "Test Asset 1",
+    "Description": "",
+    "Url": "dsfgh",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "MediaId": "",
+    "Source": "SOC",
+    "StatusTag": "New"
   }
 ]
