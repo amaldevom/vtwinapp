@@ -7390,21 +7390,5 @@
     "MediaId": "",
     "Source": "Microsoft",
     "StatusTag": ""
-  },
-  {
-    "Id": "20c70646-c559-406b-bf15-5b62e48d637f",
-    "Title": "Test Asset 1 to Playlist 1_3",
-    "Description": "",
-    "Url": "fxhjgfhk.jgl",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "MediaId": "",
-    "Source": "SOC",
-    "StatusTag": "New"
   }
 ]

@@ -1441,8 +1441,8 @@
   },
   {
     "Id": "a958fdc7-d697-43f1-b3b3-a3f467ff94cd",
-    "Title": "Word 2016 Quick Start",
-    "Image": "word_quick_start.png",
+    "Title": "Word 2016 Quick Start ",
+    "Image": "images/playlists/word_quick_start.png",
     "Level": "Beginner",
     "Audience": "End User",
     "Technology": "Word",
@@ -1473,7 +1473,7 @@
     "SubCategory": "Word",
     "Source": "Microsoft",
     "CatId": "f9b14990-420a-4678-87a8-8428928186c6",
-    "Description": null,
+    "Description": "",
     "StatusTag": "",
     "Assets": [
       "aee9c7ff-f9c5-415f-80dc-103ad5e344d7",
@@ -1959,23 +1959,5 @@
     "Description": null,
     "StatusTag": "",
     "Assets": []
-  },
-  {
-    "Id": "1fe8b0fe-c119-4fd5-85ba-b20421b53c42",
-    "Title": "Test Playlist 1_6",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "",
-    "StatusTag": "New",
-    "Assets": [
-      "20c70646-c559-406b-bf15-5b62e48d637f"
-    ]
   }
 ]
