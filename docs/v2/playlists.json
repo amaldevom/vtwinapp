@@ -1961,8 +1961,8 @@
     "Assets": []
   },
   {
-    "Id": "5cbc455d-8c0b-417a-bcb2-a2bbba3213aa",
-    "Title": "Test Playlist 1_3",
+    "Id": "b53eb7b7-0da9-4aa1-8d19-eb56f2edb3b7",
+    "Title": "Test playlist",
     "Image": "",
     "Level": "Beginner",
     "Audience": "Admin",
@@ -1975,17 +1975,17 @@
     "Description": "",
     "StatusTag": "New",
     "Assets": [
-      "8e01cf0e-8703-4194-a05e-dbf846bfe764"
+      "c37f4c6c-ae5c-4f33-8141-3d2a4fa6288b"
     ]
   },
   {
-    "Id": "3e5ff707-31b6-4513-b9b9-9eecbbbc72d0",
-    "Title": "Test Playlist 2_2",
-    "Image": "images/playlists/check-small.png",
+    "Id": "7d21e048-5c62-42f5-a75e-81cf415aa473",
+    "Title": "New playlist during demo",
+    "Image": "",
     "Level": "Beginner",
     "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
+    "Technology": "Microsoft Teams",
+    "Subject": "Meetings",
     "Category": "Scenarios",
     "SubCategory": "Modern Workplace",
     "Source": "SOC",
