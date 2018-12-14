@@ -1977,21 +1977,5 @@
     "Assets": [
       "c37f4c6c-ae5c-4f33-8141-3d2a4fa6288b"
     ]
-  },
-  {
-    "Id": "7d21e048-5c62-42f5-a75e-81cf415aa473",
-    "Title": "New playlist during demo",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Microsoft Teams",
-    "Subject": "Meetings",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "",
-    "StatusTag": "New",
-    "Assets": []
   }
 ]
