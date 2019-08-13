@@ -2002,14 +2002,46 @@
     "Audience": "Admin",
     "Technology": "docs-v2-tech1-up",
     "Subject": "docs-v2-tech1-subj1-up",
-    "Category": "cat1",
-    "SubCategory": "catsub",
+    "Category": "Scenarios",
+    "SubCategory": "Collaboration",
     "Source": "SOC",
-    "CatId": "0ee7d4f0-5b30-4d1e-bdaf-925d83379db7",
+    "CatId": "5d1a3e2d-9ebd-43a6-870d-d3fcdb5eed63",
     "Description": "",
     "StatusTag": "New",
     "Assets": [
       "7a0a0957-f824-4d46-95ea-75330efcab87"
     ]
+  },
+  {
+    "Id": "62829335-023f-4787-a1a3-7367d73553dd",
+    "Title": "plj",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "New",
+    "Assets": []
+  },
+  {
+    "Id": "f34edd7b-199f-4fe3-a859-40fea5dee2bc",
+    "Title": "nk",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "New",
+    "Assets": []
   }
 ]
