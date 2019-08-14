@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "8162ee39-f5ea-47c7-8881-5b0ff17f626a",
+    "Title": "pla3",
+    "Image": "",
+    "LevelId": "bc5103a3-c98a-4284-989d-c1a7cd2ba6ff",
+    "AudienceId": "1b899f65-d573-4df3-a283-71b2d4477d3c",
+    "TechnologyId": "dcc220d0-e8fe-4c27-b728-577c93bbd77b",
+    "SubjectId": "61650cee-391e-4cf4-a2f6-62074e249fb8",
+    "Source": "SOC",
+    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "Description": "d",
+    "StatusTagId": "d062c73d-305b-404c-ad9b-2943001213bb",
+    "StatusNote": "ds",
+    "Assets": [
+      "41b693ac-ab92-476e-a5a5-98d621ebb043"
+    ]
+  }
+]
