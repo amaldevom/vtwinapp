@@ -96,15 +96,10 @@
       ]
     },
     {
-      "Name": "docs1-v2-tech1-up",
-      "Image": "",
-      "Subjects": []
-    },
-    {
-      "Name": "docs-v2-tech1-up",
-      "Image": "images/technologies/add_and_format_pictures.png",
+      "Name": "v2-tech1",
+      "Image": "images/technologies/add_and_format_shapes.png",
       "Subjects": [
-        "docs-v2-tech1-subj1-up"
+        "v2-tech1-sub1"
       ]
     }
   ],
@@ -201,22 +196,22 @@
         },
         {
           "Id": "02354a27-0675-4f67-9c32-f616ce5b3bf3",
-          "Name": "Microsoft Teams ",
+          "Name": "Microsoft Teams",
           "Security": "Visitors",
           "Image": "images/categories/microsoft_teams_training.png",
           "Type": "SubCategory",
           "Technology": "Microsoft Teams",
-          "Source": null,
+          "Source": "",
           "SubCategories": []
         },
         {
           "Id": "beab7761-afae-4987-b8c2-57194fa945b6",
-          "Name": "Office 365 ",
+          "Name": "Office 365",
           "Security": "Visitors",
           "Image": "images/categories/office_365_apps_basic_training.png",
           "Type": "SubCategory",
           "Technology": "Office 365",
-          "Source": null,
+          "Source": "",
           "SubCategories": []
         },
         {
@@ -374,32 +369,42 @@
       ]
     },
     {
-      "Id": "f7d6749d-1986-4843-b040-33947f0aa66f",
-      "Name": "cat1",
-      "Security": "",
+      "Id": "0e65316b-0b98-42ff-a0ac-db207fac293d",
+      "Name": "cat1-v2",
+      "Security": "Owners",
       "Image": "",
       "Type": "Category",
-      "Technology": "Office 365",
+      "Technology": "OneDrive for Business",
       "Source": "FastTrack",
       "SubCategories": [
         {
-          "Id": "4b14f35f-7025-4bd9-8890-668d064bcc5f",
-          "Name": "catsub",
-          "Security": "",
+          "Id": "c38dae4c-c270-416d-a30b-db5535fa90b4",
+          "Name": "cat1-v2-sub",
+          "Security": "Owners",
           "Image": "",
           "Type": "SubCategory",
-          "Technology": "Office 365",
+          "Technology": "OneDrive for Business",
           "Source": "FastTrack",
           "SubCategories": [
             {
-              "Id": "6b56a4e6-975a-4414-991f-93ebb9afc153",
-              "Name": "atsubl1",
-              "Security": "",
+              "Id": "c38735bc-7c1c-4894-88e3-c3388748b256",
+              "Name": "cat1-sub-l1",
+              "Security": "Owners",
               "Image": "",
               "Type": "Subject",
-              "Technology": "Office 365",
-              "Source": "M365",
-              "SubCategories": []
+              "Technology": "OneDrive for Business",
+              "Source": "FastTrack",
+              "SubCategories": [
+                {
+                  "Id": "48aa934b-161d-4920-b562-9274737b7481",
+                  "Name": "vjl",
+                  "Security": "Owners",
+                  "Image": "",
+                  "Type": "Subject",
+                  "Technology": "OneDrive for Business",
+                  "Source": "FastTrack"
+                }
+              ]
             }
           ]
         }
@@ -456,8 +461,8 @@
       "Image": ""
     },
     {
-      "Name": "v2-role2-i",
-      "Image": ""
+      "Name": "v2-role1",
+      "Image": "images/audiences/add_and_format_pictures.png"
     }
   ],
   "Sources": [
