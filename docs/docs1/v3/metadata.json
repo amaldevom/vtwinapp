@@ -117,12 +117,12 @@
       "Subjects": []
     },
     {
-      "Id": "878591fe-b775-4826-a4dc-b9f38298e2ca",
-      "Name": "v3-tech2-up",
+      "Id": "d065d7f8-2573-49f6-a57e-f054f0832259",
+      "Name": "tech12",
       "Subjects": [
         {
-          "Id": "b8e93d04-9b79-4a86-9e16-a84c2050c042",
-          "Name": "v3-tech2-sub1-up-up"
+          "Id": "aebfe33e-3353-43b4-922f-8848ee72cc02",
+          "Name": "tech12-sub"
         }
       ]
     }
@@ -356,7 +356,27 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "LinkedIn",
-      "SubCategories": []
+      "SubCategories": [
+        {
+          "Id": "cca05c5a-edac-4112-9022-903a2c378822",
+          "Name": "nklm",
+          "Image": "",
+          "TechnologyId": "c32e497a-ffe9-420e-b813-37d3a89de89f",
+          "SubjectId": null,
+          "Source": "LinkedIn",
+          "SubCategories": [
+            {
+              "Id": "157d87ed-aaa7-4735-af9f-0a0cff454064",
+              "Name": "subjl1",
+              "Image": "",
+              "TechnologyId": "c32e497a-ffe9-420e-b813-37d3a89de89f",
+              "SubjectId": null,
+              "Source": "LinkedIn",
+              "SubCategories": []
+            }
+          ]
+        }
+      ]
     }
   ],
   "Audiences": [
