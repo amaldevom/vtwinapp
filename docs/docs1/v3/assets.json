@@ -9,5 +9,16 @@
     "Source": "SOC",
     "StatusTagId": "d062c73d-305b-404c-ad9b-2943001213bb",
     "StatusNote": ""
+  },
+  {
+    "Id": "77951e54-c45d-402e-aa5b-23619847777e",
+    "Title": "v3-play2-asse",
+    "Description": "",
+    "Url": "ssx",
+    "TechnologyId": "ae7216d1-1e5f-41b8-a8a3-9d9b258c94c5",
+    "SubjectId": "",
+    "Source": "SOC",
+    "StatusTagId": "d062c73d-305b-404c-ad9b-2943001213bb",
+    "StatusNote": ""
   }
 ]
