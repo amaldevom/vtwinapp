@@ -7406,21 +7406,5 @@
     "MediaId": "",
     "Source": "SOC",
     "StatusTag": "New"
-  },
-  {
-    "Id": "7a0a0957-f824-4d46-95ea-75330efcab87",
-    "Title": "docs1-v2-play2-asset1",
-    "Description": "added",
-    "Url": "qwe",
-    "Level": "Beginner",
-    "Audience": "v2-role2-i",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "MediaId": "",
-    "Source": "SOC",
-    "StatusTag": "New"
   }
 ]

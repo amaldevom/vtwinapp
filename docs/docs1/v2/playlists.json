@@ -2008,9 +2008,7 @@
     "CatId": "0ee7d4f0-5b30-4d1e-bdaf-925d83379db7",
     "Description": "",
     "StatusTag": "New",
-    "Assets": [
-      "7a0a0957-f824-4d46-95ea-75330efcab87"
-    ]
+    "Assets": []
   },
   {
     "Id": "093bd31c-3319-4bdd-9434-badbd8c73527",
@@ -2026,8 +2024,6 @@
     "CatId": "0ee7d4f0-5b30-4d1e-bdaf-925d83379db7",
     "Description": "",
     "StatusTag": "New",
-    "Assets": [
-      "7a0a0957-f824-4d46-95ea-75330efcab87"
-    ]
+    "Assets": []
   }
 ]
