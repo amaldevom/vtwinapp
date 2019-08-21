@@ -2013,8 +2013,26 @@
     ]
   },
   {
-    "Id": "093bd31c-3319-4bdd-9434-badbd8c73527",
+    "Id": "093bd31c-3319-4rfd-2345-badbd8c73527",
     "Title": "docs1-v2-play2",
+    "Image": "images/playlists/add_and_edit_text.png",
+    "Level": "v2-level1",
+    "Audience": "Admin",
+    "Technology": "docs-v2-tech1-up",
+    "Subject": "docs-v2-tech1-subj1-up",
+    "Category": "cat1",
+    "SubCategory": "catsub",
+    "Source": "SOC",
+    "CatId": "0ee7d4f0-5b30-4d1e-bdaf-925d83379db7",
+    "Description": "",
+    "StatusTag": "New",
+    "Assets": [
+      "7a0a0957-f824-4d46-95ea-75330efcab87"
+    ]
+  },
+  {
+    "Id": "093bd31c-3319-4bdd-9002-badbd8c73527",
+    "Title": "docs1-v2-new",
     "Image": "images/playlists/add_and_edit_text.png",
     "Level": "v2-level1",
     "Audience": "Admin",
