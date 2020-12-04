@@ -2029,5 +2029,23 @@
     "Assets": [
       "7a0a0957-f824-4d46-95ea-75330efcab87"
     ]
+  },
+  {
+    "Id": "e3d9a135-3531-453b-bf3a-01fdf85521ea",
+    "Title": "v2-playlist-dec4",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "M365",
+    "Subject": "Office 365",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "Description added - edited through right click",
+    "StatusTag": "New",
+    "Assets": [
+      "d13230f8-67b8-49db-b867-46d3e31e7d44"
+    ]
   }
 ]

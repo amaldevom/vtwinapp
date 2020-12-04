@@ -7422,5 +7422,21 @@
     "MediaId": "",
     "Source": "SOC",
     "StatusTag": "New"
+  },
+  {
+    "Id": "d13230f8-67b8-49db-b867-46d3e31e7d44",
+    "Title": "v2-playlist-dec4-asset2",
+    "Description": "",
+    "Url": "https://www.url.com",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "MediaId": "",
+    "Source": "SOC",
+    "StatusTag": "New"
   }
 ]

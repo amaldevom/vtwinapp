@@ -106,6 +106,14 @@
       "Subjects": [
         "docs-v2-tech1-subj1-up"
       ]
+    },
+    {
+      "Name": "tech1",
+      "Image": "",
+      "Subjects": [
+        "sub1",
+        "sub1.1"
+      ]
     }
   ],
   "Categories": [
@@ -404,6 +412,57 @@
           ]
         }
       ]
+    },
+    {
+      "Id": "549758b5-e4f6-4f2a-b386-28efd07fc038",
+      "Name": "cat-dec4",
+      "Security": "",
+      "Image": "",
+      "Type": "Category",
+      "Technology": "Microsoft Teams",
+      "Source": "",
+      "SubCategories": [
+        {
+          "Id": "ad98d1dd-5836-46de-9f99-3a1d3d3d8525",
+          "Name": "cat-dec4-1",
+          "Security": "",
+          "Image": "",
+          "Type": "SubCategory",
+          "Technology": "Microsoft Teams",
+          "Source": "",
+          "SubCategories": [
+            {
+              "Id": "6c77cac9-ec9b-40f5-8a59-52583108781e",
+              "Name": "cat-dec-4-2",
+              "Security": "",
+              "Image": "",
+              "Type": "Subject",
+              "Technology": "Microsoft Teams",
+              "Source": "",
+              "SubCategories": [
+                {
+                  "Id": "32b4bcc3-c31c-4a01-abff-6e88d1ea75a4",
+                  "Name": "cat-dec-4-3",
+                  "Security": "",
+                  "Image": "",
+                  "Type": "Subject",
+                  "Technology": "Microsoft Teams",
+                  "Source": ""
+                },
+                {
+                  "Id": "8f95147b-02f1-4c68-a927-e029e727fb58",
+                  "Name": "cat-dec-4-4",
+                  "Security": "",
+                  "Image": "",
+                  "Type": "Subject",
+                  "Technology": "Microsoft Teams",
+                  "Source": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "Audiences": [
@@ -482,5 +541,7 @@
     "v2-status1"
   ],
   "Telemetry": null,
-  "Version": null
+  "Version": null,
+  "ContentPacks": null,
+  "AssetOrigins": null
 }
