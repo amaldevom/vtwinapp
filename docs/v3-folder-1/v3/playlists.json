@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "4d7cc662-313d-4b4f-9fce-23a1bca735c0",
+    "Title": "v3-play-1",
+    "Image": "",
+    "LevelId": "bc5103a3-c98a-4284-989d-c1a7cd2ba6ff",
+    "AudienceId": "1b899f65-d573-4df3-a283-71b2d4477d3c",
+    "TechnologyId": "02126235-117c-4860-aa3a-0d2513794844",
+    "SubjectId": "",
+    "Source": "M365",
+    "CatId": "beab7761-afae-4987-b8c2-57194fa945b6",
+    "Description": "",
+    "StatusTagId": "165d9ddb-740b-433c-bd19-a993076a2c6b",
+    "StatusNote": "",
+    "Assets": [
+      "21279ebe-40c5-4082-a2ca-742a80c1069b"
+    ]
+  }
+]
