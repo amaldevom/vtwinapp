@@ -2013,6 +2013,22 @@
     ]
   },
   {
+    "Id": "ff6984b0-6e54-435c-9ae9-ffaf024fdf1c",
+    "Title": "v2-new-playlist",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "New",
+    "Assets": []
+  },
+  {
     "Id": "093bd31c-3319-4bdd-9434-badbd8c73527",
     "Title": "docs1-v2-play2",
     "Image": "images/playlists/add_and_edit_text.png",
@@ -2027,7 +2043,8 @@
     "Description": "",
     "StatusTag": "New",
     "Assets": [
-      "7a0a0957-f824-4d46-95ea-75330efcab87"
+      "7a0a0957-f824-4d46-95ea-75330efcab87",
+      "b1aadc1a-a049-4153-a4e1-ff7da399fc7e"
     ]
   },
   {
@@ -2047,21 +2064,5 @@
     "Assets": [
       "d13230f8-67b8-49db-b867-46d3e31e7d44"
     ]
-  },
-  {
-    "Id": "ff6984b0-6e54-435c-9ae9-ffaf024fdf1c",
-    "Title": "v2-new-playlist",
-    "Image": "",
-    "Level": "Beginner",
-    "Audience": "Admin",
-    "Technology": "Excel",
-    "Subject": "",
-    "Category": "Scenarios",
-    "SubCategory": "Modern Workplace",
-    "Source": "SOC",
-    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "",
-    "StatusTag": "New",
-    "Assets": []
   }
 ]

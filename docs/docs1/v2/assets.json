@@ -7438,5 +7438,21 @@
     "MediaId": "",
     "Source": "SOC",
     "StatusTag": "New"
+  },
+  {
+    "Id": "b1aadc1a-a049-4153-a4e1-ff7da399fc7e",
+    "Title": "added asset",
+    "Description": "",
+    "Url": "jjk",
+    "Level": "v2-level1",
+    "Audience": "Change Manager",
+    "Technology": "tech1",
+    "Subject": "sub1.1",
+    "Category": "cat1",
+    "SubCategory": "catsub",
+    "CatId": "4b14f35f-7025-4bd9-8890-668d064bcc5f",
+    "MediaId": "",
+    "Source": "SOC",
+    "StatusTag": "Beta"
   }
 ]
