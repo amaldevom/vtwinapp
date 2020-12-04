@@ -2029,5 +2029,21 @@
     "Assets": [
       "7a0a0957-f824-4d46-95ea-75330efcab87"
     ]
+  },
+  {
+    "Id": "3c3c542d-16c0-4a23-855c-ff60138eb514",
+    "Title": "playlist-to-test-current-pat",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "New",
+    "Assets": []
   }
 ]
