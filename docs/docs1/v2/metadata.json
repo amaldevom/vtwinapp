@@ -413,7 +413,7 @@
     },
     {
       "Name": "HelpDesk",
-      "Image": ""
+      "Image": "images/audiences/customfeatured.png"
     },
     {
       "Name": "Change Manager",
@@ -482,5 +482,7 @@
     "v2-status1"
   ],
   "Telemetry": null,
-  "Version": null
+  "Version": null,
+  "ContentPacks": null,
+  "AssetOrigins": null
 }
