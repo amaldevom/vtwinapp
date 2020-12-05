@@ -15,5 +15,20 @@
     "Assets": [
       "574a0ab9-8086-4bdc-9749-73e2c7bffc73"
     ]
+  },
+  {
+    "Id": "9ed02676-edc6-4100-89fa-707376f8514f",
+    "Title": "v3-play2",
+    "Image": "",
+    "LevelId": "bc5103a3-c98a-4284-989d-c1a7cd2ba6ff",
+    "AudienceId": "1b899f65-d573-4df3-a283-71b2d4477d3c",
+    "TechnologyId": "ae7216d1-1e5f-41b8-a8a3-9d9b258c94c5",
+    "SubjectId": "",
+    "Source": "SOC",
+    "CatId": "9bde32c3-2f0b-4201-b4a3-74cef2c8f61d",
+    "Description": "",
+    "StatusTagId": "d062c73d-305b-404c-ad9b-2943001213bb",
+    "StatusNote": "",
+    "Assets": []
   }
 ]
