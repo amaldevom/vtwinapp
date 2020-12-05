@@ -2045,5 +2045,21 @@
     "Description": "",
     "StatusTag": "New",
     "Assets": []
+  },
+  {
+    "Id": "f03cb345-1042-4a4d-849f-d4921ff74e15",
+    "Title": "v2-repo2-play",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "New",
+    "Assets": []
   }
 ]
