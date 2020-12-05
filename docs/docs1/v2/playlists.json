@@ -2029,5 +2029,21 @@
     "Assets": [
       "7a0a0957-f824-4d46-95ea-75330efcab87"
     ]
+  },
+  {
+    "Id": "2493aab9-31df-4d01-a0bf-1defdcc425c2",
+    "Title": "v2-playlist-1",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "New",
+    "Assets": []
   }
 ]
