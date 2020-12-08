@@ -2061,5 +2061,21 @@
     "Description": "",
     "StatusTag": "New",
     "Assets": []
+  },
+  {
+    "Id": "897b8e2e-c234-4a95-aba6-de1c84a8ef45",
+    "Title": "new playlist",
+    "Image": "",
+    "Level": "Beginner",
+    "Audience": "Admin",
+    "Technology": "Excel",
+    "Subject": "",
+    "Category": "Scenarios",
+    "SubCategory": "Modern Workplace",
+    "Source": "SOC",
+    "CatId": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "",
+    "StatusTag": "New",
+    "Assets": []
   }
 ]
